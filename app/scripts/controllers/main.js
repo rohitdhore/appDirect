@@ -49,7 +49,6 @@ angular.module('twitterApiappApp')
     } 
 
     $scope.onMoved = function(obj, index){
-    	console.log('Index: ', index);
       obj.splice(index, 1);
       updateLocalStorage();
     }
@@ -65,5 +64,12 @@ angular.module('twitterApiappApp')
     $scope.Date = function(date) {
         return new Date(date);
     }
+
+    $scope.$on("$destroy", function() {
+        layoutObject = null;
+        $scope.twitter_users = null;
+        $scope.displayCount = null;
+
+    });
 
   });

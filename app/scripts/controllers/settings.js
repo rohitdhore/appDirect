@@ -12,13 +12,13 @@ angular.module('twitterApiappApp')
     dataFactory.fetchUsers().then(function(response){
       //Get the preferences object stored in localstorage.
       var layoutStatus = JSON.parse(dataFactory.getLayoutStatus());
-	  if(layoutStatus == null || layoutStatus == undefined){
-	    dataFactory.setLayoutStatus(response.data);
-	    $scope.layoutStatus = response.data;
-	  }else{
-	  	//Set the layout preferences locally to render settings panel
-	    $scope.layoutStatus = layoutStatus;
-	  }
+  	  if(layoutStatus == null || layoutStatus == undefined){
+  	    dataFactory.setLayoutStatus(response.data);
+  	    $scope.layoutStatus = response.data;
+  	  }else{
+  	  	//Set the layout preferences locally to render settings panel
+  	    $scope.layoutStatus = layoutStatus;
+  	  }
   	}).finally(function(){
 
   	})
@@ -26,5 +26,9 @@ angular.module('twitterApiappApp')
   	$scope.saveLayoutSettings = function(){
   		dataFactory.setLayoutStatus($scope.layoutStatus);
   	}
+
+    $scope.$on("$destroy", function() {
+        $scope.layoutStatus = null;
+    });
 
   });
