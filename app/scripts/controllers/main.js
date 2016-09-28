@@ -61,5 +61,9 @@ angular.module('twitterApiappApp')
       });
       dataFactory.setLayoutStatus(layoutObject);
     }
+    //Convert date string to date object
+    $scope.Date = function(date) {
+        return new Date(date);
+    }
 
   });

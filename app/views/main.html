@@ -15,7 +15,7 @@
                   Heading
                 </h2>
                 <p>{{twit.text}}</p>
-                <p>Created at: {{twit.created_at | date:'MM/dd/yyyy H:mm:ss'}}</p>
+                <p>Created at: {{Date(twit.created_at) | date : 'dd/MMM/yyyy'}}</p>
               </div>
             </div>
           </div>
