@@ -34,11 +34,11 @@ angular.module('twitterApiappApp')
           cache: false
         })
       },
-      fetchTwitterTimeline: function (user, index) {
+      fetchTwitterTimeline: function (user, index, count) {
         var callIndex = index;
          return $http({
           method: 'GET',
-          url: '/json/'+user+'.json',
+          url: 'http://localhost:7890/1.1/statuses/user_timeline.json?count='+count+'&screen_name='+user,
           cache: false
         }).success(function (response)  {
             response.callIndex = callIndex;

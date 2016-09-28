@@ -37,7 +37,7 @@ angular.module('twitterApiappApp')
 
     function fetchTwitterTimeLines(){
       for(var i = 0; i < $scope.twitter_users.length; i++){
-        dataFactory.fetchTwitterTimeline($scope.twitter_users[i].userName, i).then(function(response){
+        dataFactory.fetchTwitterTimeline($scope.twitter_users[i].userName, i, $scope.displayCount).then(function(response){
           $scope.twitter_users[response.data.callIndex].user_timeline = response.data;
           $scope.twitter_users[response.data.callIndex].timeLineStatus = 1;
         },function(error){
