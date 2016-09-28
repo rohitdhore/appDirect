@@ -1,0 +1,161 @@
+$icon-font-path: "../bower_components/bootstrap-sass-official/assets/fonts/bootstrap/";
+// bower:scss
+@import "bootstrap-sass-official/assets/stylesheets/_bootstrap.scss";
+@import "font-awesome/scss/font-awesome.scss";
+// endbower
+
+.browsehappy {
+  margin: 0.2em 0;
+  background: #ccc;
+  color: #000;
+  padding: 0.2em 0;
+}
+
+body {
+  padding: 0;
+}
+
+/* Everything but the jumbotron gets side spacing for mobile first views */
+.header,
+.marketing,
+.footer {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+/* Custom page header */
+.header {
+  border-bottom: 1px solid #e5e5e5;
+  margin-bottom: 10px;
+
+  /* Make the masthead heading the same height as the navigation */
+  h3 {
+    margin-top: 0;
+    margin-bottom: 0;
+    line-height: 40px;
+    padding-bottom: 19px;
+  }
+}
+
+/* Custom page footer */
+.footer {
+  padding-top: 19px;
+  color: #777;
+  border-top: 1px solid #e5e5e5;
+}
+
+.container-narrow > hr {
+  margin: 30px 0;
+}
+
+/* Main marketing message and sign up button */
+.jumbotron {
+  text-align: center;
+  border-bottom: 1px solid #e5e5e5;
+
+  .btn {
+    font-size: 21px;
+    padding: 14px 24px;
+  }
+}
+
+/* Supporting marketing content */
+.marketing {
+  margin: 40px 0;
+
+  p + h4 {
+    margin-top: 28px;
+  }
+}
+
+$twitter-color-bg: #E5F2F7;
+$bg-bodycolor: #F5F8FA;
+$color-ddd: #ddd;
+/*Padding classes*/
+.padding-top-0{
+  padding-top: 0px !important;
+}
+.padding-right-0{
+  padding-right: 0px !important;
+}
+.padding-bottom-0{
+  padding-bottom: 0px !important;
+}
+.padding-left-0{
+  padding-left: 0px !important;
+}
+
+.padding-all-0{
+  padding: 0px !important;
+}
+
+
+/*margin classes*/
+.margin-top-0{
+  margin-top: 0px !important;
+}
+.margin-right-0{
+  margin-right: 0px !important;
+}
+.margin-bottom-0{
+  margin-bottom: 0px !important;
+}
+.margin-left-0{
+  margin-left: 0px !important;
+}
+
+.margin-all-0{
+  margin: 0px !important;
+}
+.margin-5{
+  margin: 5px !important;
+}
+.margin-top-10{
+  margin-top: 10px !important;
+}
+.margin-right-10{
+  margin-right: 10px !important;
+}
+.margin-bottom-10{
+  margin-bottom: 10px !important;
+}
+.margin-left-10{
+  margin-left: 10px !important;
+}
+
+.tweet-box{
+  border-top: 1px solid $color-ddd !important;
+  border-bottom: 1px solid $color-ddd !important;
+  margin-bottom: 5px !important;
+}
+
+.twitter-color-bg{
+  background-color: $twitter-color-bg !important;
+}
+
+.body-color-bg{
+  background-color: $bg-bodycolor !important;
+}
+
+/* Responsive: Portrait tablets and up */
+@media screen and (min-width: 768px) {
+  .container {
+    max-width: 730px;
+  }
+
+  /* Remove the padding we set earlier */
+  .header,
+  .marketing,
+  .footer {
+    padding-left: 0;
+    padding-right: 0;
+  }
+  /* Space out the masthead */
+  .header {
+    margin-bottom: 30px;
+  }
+  /* Remove the bottom border on the jumbotron for visual effect */
+  .jumbotron {
+    border-bottom: 0;
+  }
+}

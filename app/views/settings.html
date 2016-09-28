@@ -1,0 +1,20 @@
+<div class="container-fluid" >
+  <h4>Edit the column order</h4>
+  <div class="col-md-12 padding-all-0" dnd-list="layoutStatus.users">
+    <div class="col-md-4 padding-left-0" 
+    ng-repeat="twitter_user in layoutStatus.users">
+      <div class="panel panel-default col-md-12 padding-all-0"  
+      dnd-draggable="twitter_user"
+      dnd-effect-allowed="move"
+      dnd-moved="layoutStatus.users.splice($index, 1)"
+      dnd-selected="models.selected = twitter_user">
+        <div class="panel-heading">{{twitter_user.userName}}</div>
+      </div>
+    </div>
+  </div>
+  <h4>Number of tweets to display</h4>
+  <input type="text" ng-model="layoutStatus.displayCount"></input>
+  <p>
+  	<button type="button" class="btn btn-sm btn-info margin-5 pull-right" ng-click="saveLayoutSettings()">Save</button>
+  </p>
+</div>

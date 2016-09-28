@@ -1,0 +1,3632 @@
+[
+  {
+    "created_at": "Wed Sep 28 03:40:06 +0000 2016",
+    "id": 780975342567690200,
+    "id_str": "780975342567690240",
+    "text": "Watch Elon Musk reveal his plan for colonizing Mars right here https://t.co/8FNA6WDeNY",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/8FNA6WDeNY",
+          "expanded_url": "http://tcrn.ch/2dzmVBs",
+          "display_url": "tcrn.ch/2dzmVBs",
+          "indices": [
+            63,
+            86
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 816653,
+      "id_str": "816653",
+      "name": "TechCrunch",
+      "screen_name": "TechCrunch",
+      "location": "San Francisco, CA",
+      "description": "Breaking technology news, analysis, and opinions from TechCrunch. The number one guide for all things tech.\nGot a tip? Let us know tips@techcrunch.com",
+      "url": "http://t.co/b5Oyx12qGG",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/b5Oyx12qGG",
+              "expanded_url": "http://techcrunch.com",
+              "display_url": "techcrunch.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 7583553,
+      "friends_count": 856,
+      "listed_count": 107015,
+      "created_at": "Wed Mar 07 01:27:09 +0000 2007",
+      "favourites_count": 1678,
+      "utc_offset": -25200,
+      "time_zone": "Pacific Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 138214,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": true,
+      "profile_background_color": "149500",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/621096023751004161/BAKy7hCT.png",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/621096023751004161/BAKy7hCT.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/615392662233808896/EtxjSSKk_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/615392662233808896/EtxjSSKk_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/816653/1474471282",
+      "profile_link_color": "097000",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDFFCC",
+      "profile_text_color": "222222",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 30,
+    "favorite_count": 42,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Sep 28 03:16:03 +0000 2016",
+    "id": 780969290719699000,
+    "id_str": "780969290719698944",
+    "text": "Kustomer, founded by Salesforce alums, nabs $12.5M to repair customer care https://t.co/0IFa9wUqcg",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/0IFa9wUqcg",
+          "expanded_url": "http://tcrn.ch/2dgEJgw",
+          "display_url": "tcrn.ch/2dgEJgw",
+          "indices": [
+            75,
+            98
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 816653,
+      "id_str": "816653",
+      "name": "TechCrunch",
+      "screen_name": "TechCrunch",
+      "location": "San Francisco, CA",
+      "description": "Breaking technology news, analysis, and opinions from TechCrunch. The number one guide for all things tech.\nGot a tip? Let us know tips@techcrunch.com",
+      "url": "http://t.co/b5Oyx12qGG",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/b5Oyx12qGG",
+              "expanded_url": "http://techcrunch.com",
+              "display_url": "techcrunch.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 7583553,
+      "friends_count": 856,
+      "listed_count": 107015,
+      "created_at": "Wed Mar 07 01:27:09 +0000 2007",
+      "favourites_count": 1678,
+      "utc_offset": -25200,
+      "time_zone": "Pacific Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 138214,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": true,
+      "profile_background_color": "149500",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/621096023751004161/BAKy7hCT.png",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/621096023751004161/BAKy7hCT.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/615392662233808896/EtxjSSKk_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/615392662233808896/EtxjSSKk_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/816653/1474471282",
+      "profile_link_color": "097000",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDFFCC",
+      "profile_text_color": "222222",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 17,
+    "favorite_count": 17,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Sep 28 03:00:43 +0000 2016",
+    "id": 780965431645311000,
+    "id_str": "780965431645310976",
+    "text": "Crunch Report | DJI releases its new drone, the Mavic Pro https://t.co/WeDfbRgqLg by @titoyooo",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "titoyooo",
+          "name": "Tito Hamze",
+          "id": 1853470208,
+          "id_str": "1853470208",
+          "indices": [
+            85,
+            94
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/WeDfbRgqLg",
+          "expanded_url": "http://tcrn.ch/2diZlVs",
+          "display_url": "tcrn.ch/2diZlVs",
+          "indices": [
+            58,
+            81
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://10up.com\" rel=\"nofollow\">10up Publish Tweet</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 816653,
+      "id_str": "816653",
+      "name": "TechCrunch",
+      "screen_name": "TechCrunch",
+      "location": "San Francisco, CA",
+      "description": "Breaking technology news, analysis, and opinions from TechCrunch. The number one guide for all things tech.\nGot a tip? Let us know tips@techcrunch.com",
+      "url": "http://t.co/b5Oyx12qGG",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/b5Oyx12qGG",
+              "expanded_url": "http://techcrunch.com",
+              "display_url": "techcrunch.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 7583553,
+      "friends_count": 856,
+      "listed_count": 107015,
+      "created_at": "Wed Mar 07 01:27:09 +0000 2007",
+      "favourites_count": 1678,
+      "utc_offset": -25200,
+      "time_zone": "Pacific Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 138214,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": true,
+      "profile_background_color": "149500",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/621096023751004161/BAKy7hCT.png",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/621096023751004161/BAKy7hCT.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/615392662233808896/EtxjSSKk_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/615392662233808896/EtxjSSKk_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/816653/1474471282",
+      "profile_link_color": "097000",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDFFCC",
+      "profile_text_color": "222222",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 13,
+    "favorite_count": 16,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Sep 28 02:50:03 +0000 2016",
+    "id": 780962748482089000,
+    "id_str": "780962748482088960",
+    "text": "Waylens Horizon action camera for cars captures the thrill of driving https://t.co/wIrhTywRvo https://t.co/WhXER9De6u",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/wIrhTywRvo",
+          "expanded_url": "http://tcrn.ch/2dzodg0",
+          "display_url": "tcrn.ch/2dzodg0",
+          "indices": [
+            70,
+            93
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 780962745462190100,
+          "id_str": "780962745462190081",
+          "indices": [
+            94,
+            117
+          ],
+          "media_url": "http://pbs.twimg.com/media/CtaJerIWcAE1byk.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CtaJerIWcAE1byk.jpg",
+          "url": "https://t.co/WhXER9De6u",
+          "display_url": "pic.twitter.com/WhXER9De6u",
+          "expanded_url": "https://twitter.com/TechCrunch/status/780962748482088960/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1128,
+              "h": 635,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1128,
+              "h": 635,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 780962745462190100,
+          "id_str": "780962745462190081",
+          "indices": [
+            94,
+            117
+          ],
+          "media_url": "http://pbs.twimg.com/media/CtaJerIWcAE1byk.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CtaJerIWcAE1byk.jpg",
+          "url": "https://t.co/WhXER9De6u",
+          "display_url": "pic.twitter.com/WhXER9De6u",
+          "expanded_url": "https://twitter.com/TechCrunch/status/780962748482088960/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1128,
+              "h": 635,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1128,
+              "h": 635,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 816653,
+      "id_str": "816653",
+      "name": "TechCrunch",
+      "screen_name": "TechCrunch",
+      "location": "San Francisco, CA",
+      "description": "Breaking technology news, analysis, and opinions from TechCrunch. The number one guide for all things tech.\nGot a tip? Let us know tips@techcrunch.com",
+      "url": "http://t.co/b5Oyx12qGG",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/b5Oyx12qGG",
+              "expanded_url": "http://techcrunch.com",
+              "display_url": "techcrunch.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 7583553,
+      "friends_count": 856,
+      "listed_count": 107015,
+      "created_at": "Wed Mar 07 01:27:09 +0000 2007",
+      "favourites_count": 1678,
+      "utc_offset": -25200,
+      "time_zone": "Pacific Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 138214,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": true,
+      "profile_background_color": "149500",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/621096023751004161/BAKy7hCT.png",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/621096023751004161/BAKy7hCT.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/615392662233808896/EtxjSSKk_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/615392662233808896/EtxjSSKk_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/816653/1474471282",
+      "profile_link_color": "097000",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDFFCC",
+      "profile_text_color": "222222",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 19,
+    "favorite_count": 25,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Sep 28 02:22:06 +0000 2016",
+    "id": 780955714177073200,
+    "id_str": "780955714177073156",
+    "text": "Color Genomics raises $45 million to provide cheaper genetic tests that detect cancer risk https://t.co/mbW72b6q5T",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/mbW72b6q5T",
+          "expanded_url": "http://tcrn.ch/2dgFC92",
+          "display_url": "tcrn.ch/2dgFC92",
+          "indices": [
+            91,
+            114
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 816653,
+      "id_str": "816653",
+      "name": "TechCrunch",
+      "screen_name": "TechCrunch",
+      "location": "San Francisco, CA",
+      "description": "Breaking technology news, analysis, and opinions from TechCrunch. The number one guide for all things tech.\nGot a tip? Let us know tips@techcrunch.com",
+      "url": "http://t.co/b5Oyx12qGG",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/b5Oyx12qGG",
+              "expanded_url": "http://techcrunch.com",
+              "display_url": "techcrunch.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 7583553,
+      "friends_count": 856,
+      "listed_count": 107015,
+      "created_at": "Wed Mar 07 01:27:09 +0000 2007",
+      "favourites_count": 1678,
+      "utc_offset": -25200,
+      "time_zone": "Pacific Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 138214,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": true,
+      "profile_background_color": "149500",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/621096023751004161/BAKy7hCT.png",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/621096023751004161/BAKy7hCT.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/615392662233808896/EtxjSSKk_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/615392662233808896/EtxjSSKk_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/816653/1474471282",
+      "profile_link_color": "097000",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDFFCC",
+      "profile_text_color": "222222",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 31,
+    "favorite_count": 37,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Sep 28 02:00:07 +0000 2016",
+    "id": 780950182393319400,
+    "id_str": "780950182393319425",
+    "text": "DJI​’s folding drone is smaller and better at tracking than GoPro​’s offering https://t.co/U69SayUOKa https://t.co/yzzzBTfv3T",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/U69SayUOKa",
+          "expanded_url": "http://tcrn.ch/2ddSnmB",
+          "display_url": "tcrn.ch/2ddSnmB",
+          "indices": [
+            78,
+            101
+          ]
+        },
+        {
+          "url": "https://t.co/yzzzBTfv3T",
+          "expanded_url": "http://snpy.tv/2dpGjSt",
+          "display_url": "snpy.tv/2dpGjSt",
+          "indices": [
+            102,
+            125
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://snappytv.com\" rel=\"nofollow\">SnappyTV.com</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 816653,
+      "id_str": "816653",
+      "name": "TechCrunch",
+      "screen_name": "TechCrunch",
+      "location": "San Francisco, CA",
+      "description": "Breaking technology news, analysis, and opinions from TechCrunch. The number one guide for all things tech.\nGot a tip? Let us know tips@techcrunch.com",
+      "url": "http://t.co/b5Oyx12qGG",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/b5Oyx12qGG",
+              "expanded_url": "http://techcrunch.com",
+              "display_url": "techcrunch.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 7583553,
+      "friends_count": 856,
+      "listed_count": 107015,
+      "created_at": "Wed Mar 07 01:27:09 +0000 2007",
+      "favourites_count": 1678,
+      "utc_offset": -25200,
+      "time_zone": "Pacific Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 138214,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": true,
+      "profile_background_color": "149500",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/621096023751004161/BAKy7hCT.png",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/621096023751004161/BAKy7hCT.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/615392662233808896/EtxjSSKk_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/615392662233808896/EtxjSSKk_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/816653/1474471282",
+      "profile_link_color": "097000",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDFFCC",
+      "profile_text_color": "222222",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 36,
+    "favorite_count": 61,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Sep 28 01:55:06 +0000 2016",
+    "id": 780948918171537400,
+    "id_str": "780948918171537409",
+    "text": "With Daily Mix, Spotify taps algorithms to make infinite playlists from your favorite tunes https://t.co/Epuff5vATO https://t.co/59YptHoD9B",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/Epuff5vATO",
+          "expanded_url": "http://tcrn.ch/2dgDXjH",
+          "display_url": "tcrn.ch/2dgDXjH",
+          "indices": [
+            92,
+            115
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 780948916439318500,
+          "id_str": "780948916439318528",
+          "indices": [
+            116,
+            139
+          ],
+          "media_url": "http://pbs.twimg.com/media/CtZ85uAXgAAvhM9.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CtZ85uAXgAAvhM9.jpg",
+          "url": "https://t.co/59YptHoD9B",
+          "display_url": "pic.twitter.com/59YptHoD9B",
+          "expanded_url": "https://twitter.com/TechCrunch/status/780948918171537409/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 605,
+              "h": 449,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 605,
+              "h": 449,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 605,
+              "h": 449,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 780948916439318500,
+          "id_str": "780948916439318528",
+          "indices": [
+            116,
+            139
+          ],
+          "media_url": "http://pbs.twimg.com/media/CtZ85uAXgAAvhM9.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CtZ85uAXgAAvhM9.jpg",
+          "url": "https://t.co/59YptHoD9B",
+          "display_url": "pic.twitter.com/59YptHoD9B",
+          "expanded_url": "https://twitter.com/TechCrunch/status/780948918171537409/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 605,
+              "h": 449,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 605,
+              "h": 449,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 605,
+              "h": 449,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 816653,
+      "id_str": "816653",
+      "name": "TechCrunch",
+      "screen_name": "TechCrunch",
+      "location": "San Francisco, CA",
+      "description": "Breaking technology news, analysis, and opinions from TechCrunch. The number one guide for all things tech.\nGot a tip? Let us know tips@techcrunch.com",
+      "url": "http://t.co/b5Oyx12qGG",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/b5Oyx12qGG",
+              "expanded_url": "http://techcrunch.com",
+              "display_url": "techcrunch.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 7583553,
+      "friends_count": 856,
+      "listed_count": 107015,
+      "created_at": "Wed Mar 07 01:27:09 +0000 2007",
+      "favourites_count": 1678,
+      "utc_offset": -25200,
+      "time_zone": "Pacific Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 138214,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": true,
+      "profile_background_color": "149500",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/621096023751004161/BAKy7hCT.png",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/621096023751004161/BAKy7hCT.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/615392662233808896/EtxjSSKk_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/615392662233808896/EtxjSSKk_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/816653/1474471282",
+      "profile_link_color": "097000",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDFFCC",
+      "profile_text_color": "222222",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 36,
+    "favorite_count": 57,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Sep 28 01:08:00 +0000 2016",
+    "id": 780937067274629100,
+    "id_str": "780937067274629120",
+    "text": "The SMOVE stabilizes and charges your phone for steady video shoots https://t.co/HToZzi7ffj",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/HToZzi7ffj",
+          "expanded_url": "http://tcrn.ch/2dgEMZZ",
+          "display_url": "tcrn.ch/2dgEMZZ",
+          "indices": [
+            68,
+            91
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 816653,
+      "id_str": "816653",
+      "name": "TechCrunch",
+      "screen_name": "TechCrunch",
+      "location": "San Francisco, CA",
+      "description": "Breaking technology news, analysis, and opinions from TechCrunch. The number one guide for all things tech.\nGot a tip? Let us know tips@techcrunch.com",
+      "url": "http://t.co/b5Oyx12qGG",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/b5Oyx12qGG",
+              "expanded_url": "http://techcrunch.com",
+              "display_url": "techcrunch.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 7583553,
+      "friends_count": 856,
+      "listed_count": 107015,
+      "created_at": "Wed Mar 07 01:27:09 +0000 2007",
+      "favourites_count": 1678,
+      "utc_offset": -25200,
+      "time_zone": "Pacific Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 138214,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": true,
+      "profile_background_color": "149500",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/621096023751004161/BAKy7hCT.png",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/621096023751004161/BAKy7hCT.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/615392662233808896/EtxjSSKk_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/615392662233808896/EtxjSSKk_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/816653/1474471282",
+      "profile_link_color": "097000",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDFFCC",
+      "profile_text_color": "222222",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 17,
+    "favorite_count": 23,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Sep 28 00:40:05 +0000 2016",
+    "id": 780930043014971400,
+    "id_str": "780930043014971392",
+    "text": "Nearly four weeks in, about 60-percent of Galaxy Note 7 units have been exchanged in the US and Korea https://t.co/sFCnCB2EUA",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/sFCnCB2EUA",
+          "expanded_url": "http://tcrn.ch/2dgCHNo",
+          "display_url": "tcrn.ch/2dgCHNo",
+          "indices": [
+            102,
+            125
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 816653,
+      "id_str": "816653",
+      "name": "TechCrunch",
+      "screen_name": "TechCrunch",
+      "location": "San Francisco, CA",
+      "description": "Breaking technology news, analysis, and opinions from TechCrunch. The number one guide for all things tech.\nGot a tip? Let us know tips@techcrunch.com",
+      "url": "http://t.co/b5Oyx12qGG",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/b5Oyx12qGG",
+              "expanded_url": "http://techcrunch.com",
+              "display_url": "techcrunch.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 7583553,
+      "friends_count": 856,
+      "listed_count": 107015,
+      "created_at": "Wed Mar 07 01:27:09 +0000 2007",
+      "favourites_count": 1678,
+      "utc_offset": -25200,
+      "time_zone": "Pacific Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 138214,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": true,
+      "profile_background_color": "149500",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/621096023751004161/BAKy7hCT.png",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/621096023751004161/BAKy7hCT.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/615392662233808896/EtxjSSKk_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/615392662233808896/EtxjSSKk_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/816653/1474471282",
+      "profile_link_color": "097000",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDFFCC",
+      "profile_text_color": "222222",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 24,
+    "favorite_count": 23,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Sep 28 00:30:55 +0000 2016",
+    "id": 780927736537677800,
+    "id_str": "780927736537677824",
+    "text": "Three things venture capitalists need to show their own investors https://t.co/HqBc2VdhRq by @HarryStebbings",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "HarryStebbings",
+          "name": "Harry Stebbings",
+          "id": 3253629143,
+          "id_str": "3253629143",
+          "indices": [
+            93,
+            108
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/HqBc2VdhRq",
+          "expanded_url": "http://tcrn.ch/2cU2hrE",
+          "display_url": "tcrn.ch/2cU2hrE",
+          "indices": [
+            66,
+            89
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://10up.com\" rel=\"nofollow\">10up Publish Tweet</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 816653,
+      "id_str": "816653",
+      "name": "TechCrunch",
+      "screen_name": "TechCrunch",
+      "location": "San Francisco, CA",
+      "description": "Breaking technology news, analysis, and opinions from TechCrunch. The number one guide for all things tech.\nGot a tip? Let us know tips@techcrunch.com",
+      "url": "http://t.co/b5Oyx12qGG",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/b5Oyx12qGG",
+              "expanded_url": "http://techcrunch.com",
+              "display_url": "techcrunch.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 7583553,
+      "friends_count": 856,
+      "listed_count": 107015,
+      "created_at": "Wed Mar 07 01:27:09 +0000 2007",
+      "favourites_count": 1678,
+      "utc_offset": -25200,
+      "time_zone": "Pacific Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 138214,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": true,
+      "profile_background_color": "149500",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/621096023751004161/BAKy7hCT.png",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/621096023751004161/BAKy7hCT.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/615392662233808896/EtxjSSKk_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/615392662233808896/EtxjSSKk_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/816653/1474471282",
+      "profile_link_color": "097000",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDFFCC",
+      "profile_text_color": "222222",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 21,
+    "favorite_count": 19,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Sep 28 00:14:05 +0000 2016",
+    "id": 780923497673547800,
+    "id_str": "780923497673547776",
+    "text": "Hinge closes the door on casual dating to focus on serious relationships https://t.co/ZoMg93FbAR",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/ZoMg93FbAR",
+          "expanded_url": "http://tcrn.ch/2dgA66e",
+          "display_url": "tcrn.ch/2dgA66e",
+          "indices": [
+            73,
+            96
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 816653,
+      "id_str": "816653",
+      "name": "TechCrunch",
+      "screen_name": "TechCrunch",
+      "location": "San Francisco, CA",
+      "description": "Breaking technology news, analysis, and opinions from TechCrunch. The number one guide for all things tech.\nGot a tip? Let us know tips@techcrunch.com",
+      "url": "http://t.co/b5Oyx12qGG",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/b5Oyx12qGG",
+              "expanded_url": "http://techcrunch.com",
+              "display_url": "techcrunch.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 7583553,
+      "friends_count": 856,
+      "listed_count": 107015,
+      "created_at": "Wed Mar 07 01:27:09 +0000 2007",
+      "favourites_count": 1678,
+      "utc_offset": -25200,
+      "time_zone": "Pacific Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 138214,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": true,
+      "profile_background_color": "149500",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/621096023751004161/BAKy7hCT.png",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/621096023751004161/BAKy7hCT.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/615392662233808896/EtxjSSKk_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/615392662233808896/EtxjSSKk_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/816653/1474471282",
+      "profile_link_color": "097000",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDFFCC",
+      "profile_text_color": "222222",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 13,
+    "favorite_count": 17,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Sep 28 00:07:02 +0000 2016",
+    "id": 780921722476253200,
+    "id_str": "780921722476253184",
+    "text": "Tyra Banks on startup investing and her new TV show https://t.co/7Uc6x9gtIQ by @Katie_Roof",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "Katie_Roof",
+          "name": "Katie Roof",
+          "id": 109968678,
+          "id_str": "109968678",
+          "indices": [
+            79,
+            90
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/7Uc6x9gtIQ",
+          "expanded_url": "http://tcrn.ch/2diDmhf",
+          "display_url": "tcrn.ch/2diDmhf",
+          "indices": [
+            52,
+            75
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://10up.com\" rel=\"nofollow\">10up Publish Tweet</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 816653,
+      "id_str": "816653",
+      "name": "TechCrunch",
+      "screen_name": "TechCrunch",
+      "location": "San Francisco, CA",
+      "description": "Breaking technology news, analysis, and opinions from TechCrunch. The number one guide for all things tech.\nGot a tip? Let us know tips@techcrunch.com",
+      "url": "http://t.co/b5Oyx12qGG",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/b5Oyx12qGG",
+              "expanded_url": "http://techcrunch.com",
+              "display_url": "techcrunch.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 7583553,
+      "friends_count": 856,
+      "listed_count": 107015,
+      "created_at": "Wed Mar 07 01:27:09 +0000 2007",
+      "favourites_count": 1678,
+      "utc_offset": -25200,
+      "time_zone": "Pacific Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 138214,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": true,
+      "profile_background_color": "149500",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/621096023751004161/BAKy7hCT.png",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/621096023751004161/BAKy7hCT.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/615392662233808896/EtxjSSKk_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/615392662233808896/EtxjSSKk_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/816653/1474471282",
+      "profile_link_color": "097000",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDFFCC",
+      "profile_text_color": "222222",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 28,
+    "favorite_count": 28,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Sep 27 23:57:05 +0000 2016",
+    "id": 780919219324014600,
+    "id_str": "780919219324014592",
+    "text": "Musk says under 5 percent of SpaceX is working on Mars mission, 2024 launch is 'optimistic' https://t.co/8A0P3F4NyT",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/8A0P3F4NyT",
+          "expanded_url": "http://tcrn.ch/2diBplg",
+          "display_url": "tcrn.ch/2diBplg",
+          "indices": [
+            92,
+            115
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://10up.com\" rel=\"nofollow\">10up Publish Tweet</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 816653,
+      "id_str": "816653",
+      "name": "TechCrunch",
+      "screen_name": "TechCrunch",
+      "location": "San Francisco, CA",
+      "description": "Breaking technology news, analysis, and opinions from TechCrunch. The number one guide for all things tech.\nGot a tip? Let us know tips@techcrunch.com",
+      "url": "http://t.co/b5Oyx12qGG",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/b5Oyx12qGG",
+              "expanded_url": "http://techcrunch.com",
+              "display_url": "techcrunch.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 7583553,
+      "friends_count": 856,
+      "listed_count": 107015,
+      "created_at": "Wed Mar 07 01:27:09 +0000 2007",
+      "favourites_count": 1678,
+      "utc_offset": -25200,
+      "time_zone": "Pacific Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 138214,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": true,
+      "profile_background_color": "149500",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/621096023751004161/BAKy7hCT.png",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/621096023751004161/BAKy7hCT.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/615392662233808896/EtxjSSKk_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/615392662233808896/EtxjSSKk_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/816653/1474471282",
+      "profile_link_color": "097000",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDFFCC",
+      "profile_text_color": "222222",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 47,
+    "favorite_count": 39,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Sep 27 23:49:06 +0000 2016",
+    "id": 780917211527610400,
+    "id_str": "780917211527610368",
+    "text": "Pullstring launches bot-authoring tools for fun &amp; profit https://t.co/Tp8JXCHJyN",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/Tp8JXCHJyN",
+          "expanded_url": "http://tcrn.ch/2dzeo1l",
+          "display_url": "tcrn.ch/2dzeo1l",
+          "indices": [
+            61,
+            84
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 816653,
+      "id_str": "816653",
+      "name": "TechCrunch",
+      "screen_name": "TechCrunch",
+      "location": "San Francisco, CA",
+      "description": "Breaking technology news, analysis, and opinions from TechCrunch. The number one guide for all things tech.\nGot a tip? Let us know tips@techcrunch.com",
+      "url": "http://t.co/b5Oyx12qGG",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/b5Oyx12qGG",
+              "expanded_url": "http://techcrunch.com",
+              "display_url": "techcrunch.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 7583553,
+      "friends_count": 856,
+      "listed_count": 107015,
+      "created_at": "Wed Mar 07 01:27:09 +0000 2007",
+      "favourites_count": 1678,
+      "utc_offset": -25200,
+      "time_zone": "Pacific Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 138214,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": true,
+      "profile_background_color": "149500",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/621096023751004161/BAKy7hCT.png",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/621096023751004161/BAKy7hCT.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/615392662233808896/EtxjSSKk_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/615392662233808896/EtxjSSKk_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/816653/1474471282",
+      "profile_link_color": "097000",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDFFCC",
+      "profile_text_color": "222222",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 19,
+    "favorite_count": 25,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Sep 27 23:20:05 +0000 2016",
+    "id": 780909907776249900,
+    "id_str": "780909907776249856",
+    "text": "Pearl’s RearVision is a backup camera for those who want the best rear view https://t.co/0JAFX4dYAL https://t.co/rQi44J77D7",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/0JAFX4dYAL",
+          "expanded_url": "http://tcrn.ch/2dgvkpq",
+          "display_url": "tcrn.ch/2dgvkpq",
+          "indices": [
+            76,
+            99
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 780909904471130100,
+          "id_str": "780909904471130112",
+          "indices": [
+            100,
+            123
+          ],
+          "media_url": "http://pbs.twimg.com/media/CtZZa7GWAAAZG3K.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CtZZa7GWAAAZG3K.jpg",
+          "url": "https://t.co/rQi44J77D7",
+          "display_url": "pic.twitter.com/rQi44J77D7",
+          "expanded_url": "https://twitter.com/TechCrunch/status/780909907776249856/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 320,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1125,
+              "h": 530,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1125,
+              "h": 530,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 780909904471130100,
+          "id_str": "780909904471130112",
+          "indices": [
+            100,
+            123
+          ],
+          "media_url": "http://pbs.twimg.com/media/CtZZa7GWAAAZG3K.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CtZZa7GWAAAZG3K.jpg",
+          "url": "https://t.co/rQi44J77D7",
+          "display_url": "pic.twitter.com/rQi44J77D7",
+          "expanded_url": "https://twitter.com/TechCrunch/status/780909907776249856/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 320,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1125,
+              "h": 530,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1125,
+              "h": 530,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 816653,
+      "id_str": "816653",
+      "name": "TechCrunch",
+      "screen_name": "TechCrunch",
+      "location": "San Francisco, CA",
+      "description": "Breaking technology news, analysis, and opinions from TechCrunch. The number one guide for all things tech.\nGot a tip? Let us know tips@techcrunch.com",
+      "url": "http://t.co/b5Oyx12qGG",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/b5Oyx12qGG",
+              "expanded_url": "http://techcrunch.com",
+              "display_url": "techcrunch.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 7583553,
+      "friends_count": 856,
+      "listed_count": 107015,
+      "created_at": "Wed Mar 07 01:27:09 +0000 2007",
+      "favourites_count": 1678,
+      "utc_offset": -25200,
+      "time_zone": "Pacific Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 138214,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": true,
+      "profile_background_color": "149500",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/621096023751004161/BAKy7hCT.png",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/621096023751004161/BAKy7hCT.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/615392662233808896/EtxjSSKk_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/615392662233808896/EtxjSSKk_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/816653/1474471282",
+      "profile_link_color": "097000",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDFFCC",
+      "profile_text_color": "222222",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 23,
+    "favorite_count": 29,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Sep 27 23:04:06 +0000 2016",
+    "id": 780905885526741000,
+    "id_str": "780905885526740994",
+    "text": "DJI releases its new drone, Elon Musk on becoming a multi-planetary species and more on #CrunchReport with @titoyooo https://t.co/8j96GUtxWd",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "CrunchReport",
+          "indices": [
+            88,
+            101
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "titoyooo",
+          "name": "Tito Hamze",
+          "id": 1853470208,
+          "id_str": "1853470208",
+          "indices": [
+            107,
+            116
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/8j96GUtxWd",
+          "expanded_url": "http://snpy.tv/2dB2N1X",
+          "display_url": "snpy.tv/2dB2N1X",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://snappytv.com\" rel=\"nofollow\">SnappyTV.com</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 816653,
+      "id_str": "816653",
+      "name": "TechCrunch",
+      "screen_name": "TechCrunch",
+      "location": "San Francisco, CA",
+      "description": "Breaking technology news, analysis, and opinions from TechCrunch. The number one guide for all things tech.\nGot a tip? Let us know tips@techcrunch.com",
+      "url": "http://t.co/b5Oyx12qGG",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/b5Oyx12qGG",
+              "expanded_url": "http://techcrunch.com",
+              "display_url": "techcrunch.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 7583553,
+      "friends_count": 856,
+      "listed_count": 107015,
+      "created_at": "Wed Mar 07 01:27:09 +0000 2007",
+      "favourites_count": 1678,
+      "utc_offset": -25200,
+      "time_zone": "Pacific Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 138214,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": true,
+      "profile_background_color": "149500",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/621096023751004161/BAKy7hCT.png",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/621096023751004161/BAKy7hCT.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/615392662233808896/EtxjSSKk_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/615392662233808896/EtxjSSKk_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/816653/1474471282",
+      "profile_link_color": "097000",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDFFCC",
+      "profile_text_color": "222222",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 18,
+    "favorite_count": 27,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Sep 27 22:53:01 +0000 2016",
+    "id": 780903096440463400,
+    "id_str": "780903096440463360",
+    "text": "Launching a “Google for sound”, Deepgram raises $1.8 million https://t.co/0FiQXSGihG",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/0FiQXSGihG",
+          "expanded_url": "http://tcrn.ch/2dgrmNr",
+          "display_url": "tcrn.ch/2dgrmNr",
+          "indices": [
+            61,
+            84
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 816653,
+      "id_str": "816653",
+      "name": "TechCrunch",
+      "screen_name": "TechCrunch",
+      "location": "San Francisco, CA",
+      "description": "Breaking technology news, analysis, and opinions from TechCrunch. The number one guide for all things tech.\nGot a tip? Let us know tips@techcrunch.com",
+      "url": "http://t.co/b5Oyx12qGG",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/b5Oyx12qGG",
+              "expanded_url": "http://techcrunch.com",
+              "display_url": "techcrunch.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 7583553,
+      "friends_count": 856,
+      "listed_count": 107015,
+      "created_at": "Wed Mar 07 01:27:09 +0000 2007",
+      "favourites_count": 1678,
+      "utc_offset": -25200,
+      "time_zone": "Pacific Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 138214,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": true,
+      "profile_background_color": "149500",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/621096023751004161/BAKy7hCT.png",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/621096023751004161/BAKy7hCT.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/615392662233808896/EtxjSSKk_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/615392662233808896/EtxjSSKk_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/816653/1474471282",
+      "profile_link_color": "097000",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDFFCC",
+      "profile_text_color": "222222",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 29,
+    "favorite_count": 35,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Sep 27 22:48:00 +0000 2016",
+    "id": 780901835204767700,
+    "id_str": "780901835204767744",
+    "text": "Samsung waiting to see where VR hype cycle lands before moving on standalone headsets https://t.co/jGFI90fwwE by @lucas_matney",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "Lucas_Matney",
+          "name": "lucas matney",
+          "id": 357786278,
+          "id_str": "357786278",
+          "indices": [
+            113,
+            126
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/jGFI90fwwE",
+          "expanded_url": "http://tcrn.ch/2diqE1Z",
+          "display_url": "tcrn.ch/2diqE1Z",
+          "indices": [
+            86,
+            109
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://10up.com\" rel=\"nofollow\">10up Publish Tweet</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 816653,
+      "id_str": "816653",
+      "name": "TechCrunch",
+      "screen_name": "TechCrunch",
+      "location": "San Francisco, CA",
+      "description": "Breaking technology news, analysis, and opinions from TechCrunch. The number one guide for all things tech.\nGot a tip? Let us know tips@techcrunch.com",
+      "url": "http://t.co/b5Oyx12qGG",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/b5Oyx12qGG",
+              "expanded_url": "http://techcrunch.com",
+              "display_url": "techcrunch.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 7583553,
+      "friends_count": 856,
+      "listed_count": 107015,
+      "created_at": "Wed Mar 07 01:27:09 +0000 2007",
+      "favourites_count": 1678,
+      "utc_offset": -25200,
+      "time_zone": "Pacific Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 138214,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": true,
+      "profile_background_color": "149500",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/621096023751004161/BAKy7hCT.png",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/621096023751004161/BAKy7hCT.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/615392662233808896/EtxjSSKk_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/615392662233808896/EtxjSSKk_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/816653/1474471282",
+      "profile_link_color": "097000",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDFFCC",
+      "profile_text_color": "222222",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 19,
+    "favorite_count": 20,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Sep 27 22:46:33 +0000 2016",
+    "id": 780901471160266800,
+    "id_str": "780901471160266752",
+    "text": "GoGoGuest helps coffee shops manage their WiFi, customer-by-customer https://t.co/7f3J6lDFTY by @anthonyha",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "anthonyha",
+          "name": "Anthony Ha",
+          "id": 14269152,
+          "id_str": "14269152",
+          "indices": [
+            96,
+            106
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/7f3J6lDFTY",
+          "expanded_url": "http://tcrn.ch/2czQM80",
+          "display_url": "tcrn.ch/2czQM80",
+          "indices": [
+            69,
+            92
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://10up.com\" rel=\"nofollow\">10up Publish Tweet</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 816653,
+      "id_str": "816653",
+      "name": "TechCrunch",
+      "screen_name": "TechCrunch",
+      "location": "San Francisco, CA",
+      "description": "Breaking technology news, analysis, and opinions from TechCrunch. The number one guide for all things tech.\nGot a tip? Let us know tips@techcrunch.com",
+      "url": "http://t.co/b5Oyx12qGG",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/b5Oyx12qGG",
+              "expanded_url": "http://techcrunch.com",
+              "display_url": "techcrunch.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 7583553,
+      "friends_count": 856,
+      "listed_count": 107015,
+      "created_at": "Wed Mar 07 01:27:09 +0000 2007",
+      "favourites_count": 1678,
+      "utc_offset": -25200,
+      "time_zone": "Pacific Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 138214,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": true,
+      "profile_background_color": "149500",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/621096023751004161/BAKy7hCT.png",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/621096023751004161/BAKy7hCT.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/615392662233808896/EtxjSSKk_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/615392662233808896/EtxjSSKk_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/816653/1474471282",
+      "profile_link_color": "097000",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDFFCC",
+      "profile_text_color": "222222",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 13,
+    "favorite_count": 29,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Sep 27 22:32:04 +0000 2016",
+    "id": 780897824103948300,
+    "id_str": "780897824103948288",
+    "text": "Mapping startups hope they can chart a new course to success https://t.co/7rPy37ENvJ https://t.co/MZxGjmzjSf",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/7rPy37ENvJ",
+          "expanded_url": "http://tcrn.ch/2dz9SA9",
+          "display_url": "tcrn.ch/2dz9SA9",
+          "indices": [
+            61,
+            84
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 780897818412191700,
+          "id_str": "780897818412191745",
+          "indices": [
+            85,
+            108
+          ],
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/CtZObbBWEAEBtTi.jpg",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CtZObbBWEAEBtTi.jpg",
+          "url": "https://t.co/MZxGjmzjSf",
+          "display_url": "pic.twitter.com/MZxGjmzjSf",
+          "expanded_url": "https://twitter.com/TechCrunch/status/780897824103948288/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 512,
+              "h": 288,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 340,
+              "h": 191,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 512,
+              "h": 288,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 780897818412191700,
+          "id_str": "780897818412191745",
+          "indices": [
+            85,
+            108
+          ],
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/CtZObbBWEAEBtTi.jpg",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CtZObbBWEAEBtTi.jpg",
+          "url": "https://t.co/MZxGjmzjSf",
+          "display_url": "pic.twitter.com/MZxGjmzjSf",
+          "expanded_url": "https://twitter.com/TechCrunch/status/780897824103948288/photo/1",
+          "type": "animated_gif",
+          "sizes": {
+            "medium": {
+              "w": 512,
+              "h": 288,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 340,
+              "h": 191,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 512,
+              "h": 288,
+              "resize": "fit"
+            }
+          },
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "variants": [
+              {
+                "bitrate": 0,
+                "content_type": "video/mp4",
+                "url": "https://pbs.twimg.com/tweet_video/CtZObbBWEAEBtTi.mp4"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 816653,
+      "id_str": "816653",
+      "name": "TechCrunch",
+      "screen_name": "TechCrunch",
+      "location": "San Francisco, CA",
+      "description": "Breaking technology news, analysis, and opinions from TechCrunch. The number one guide for all things tech.\nGot a tip? Let us know tips@techcrunch.com",
+      "url": "http://t.co/b5Oyx12qGG",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/b5Oyx12qGG",
+              "expanded_url": "http://techcrunch.com",
+              "display_url": "techcrunch.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 7583553,
+      "friends_count": 856,
+      "listed_count": 107015,
+      "created_at": "Wed Mar 07 01:27:09 +0000 2007",
+      "favourites_count": 1678,
+      "utc_offset": -25200,
+      "time_zone": "Pacific Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 138214,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": true,
+      "profile_background_color": "149500",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/621096023751004161/BAKy7hCT.png",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/621096023751004161/BAKy7hCT.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/615392662233808896/EtxjSSKk_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/615392662233808896/EtxjSSKk_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/816653/1474471282",
+      "profile_link_color": "097000",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDFFCC",
+      "profile_text_color": "222222",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 17,
+    "favorite_count": 45,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Sep 27 22:24:20 +0000 2016",
+    "id": 780895878580047900,
+    "id_str": "780895878580047872",
+    "text": "Elon announces how he plans to send people to Mars https://t.co/FRCQ4YIuVm https://t.co/VqgXrA3P8q",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/FRCQ4YIuVm",
+          "expanded_url": "http://tcrn.ch/2dpWbAf",
+          "display_url": "tcrn.ch/2dpWbAf",
+          "indices": [
+            51,
+            74
+          ]
+        },
+        {
+          "url": "https://t.co/VqgXrA3P8q",
+          "expanded_url": "http://snpy.tv/2cTNa1F",
+          "display_url": "snpy.tv/2cTNa1F",
+          "indices": [
+            75,
+            98
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://snappytv.com\" rel=\"nofollow\">SnappyTV.com</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 816653,
+      "id_str": "816653",
+      "name": "TechCrunch",
+      "screen_name": "TechCrunch",
+      "location": "San Francisco, CA",
+      "description": "Breaking technology news, analysis, and opinions from TechCrunch. The number one guide for all things tech.\nGot a tip? Let us know tips@techcrunch.com",
+      "url": "http://t.co/b5Oyx12qGG",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/b5Oyx12qGG",
+              "expanded_url": "http://techcrunch.com",
+              "display_url": "techcrunch.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 7583553,
+      "friends_count": 856,
+      "listed_count": 107015,
+      "created_at": "Wed Mar 07 01:27:09 +0000 2007",
+      "favourites_count": 1678,
+      "utc_offset": -25200,
+      "time_zone": "Pacific Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 138214,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": true,
+      "profile_background_color": "149500",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/621096023751004161/BAKy7hCT.png",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/621096023751004161/BAKy7hCT.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/615392662233808896/EtxjSSKk_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/615392662233808896/EtxjSSKk_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/816653/1474471282",
+      "profile_link_color": "097000",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDFFCC",
+      "profile_text_color": "222222",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 67,
+    "favorite_count": 71,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Sep 27 22:16:16 +0000 2016",
+    "id": 780893849933738000,
+    "id_str": "780893849933737984",
+    "text": "Best Buy partners with PCH to bring hardware startups to its brick and mortar https://t.co/1dLC9EuEJ4 by @bheater",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "bheater",
+          "name": "Brian Heater",
+          "id": 15741636,
+          "id_str": "15741636",
+          "indices": [
+            105,
+            113
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/1dLC9EuEJ4",
+          "expanded_url": "http://tcrn.ch/2czOzcO",
+          "display_url": "tcrn.ch/2czOzcO",
+          "indices": [
+            78,
+            101
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://10up.com\" rel=\"nofollow\">10up Publish Tweet</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 816653,
+      "id_str": "816653",
+      "name": "TechCrunch",
+      "screen_name": "TechCrunch",
+      "location": "San Francisco, CA",
+      "description": "Breaking technology news, analysis, and opinions from TechCrunch. The number one guide for all things tech.\nGot a tip? Let us know tips@techcrunch.com",
+      "url": "http://t.co/b5Oyx12qGG",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/b5Oyx12qGG",
+              "expanded_url": "http://techcrunch.com",
+              "display_url": "techcrunch.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 7583553,
+      "friends_count": 856,
+      "listed_count": 107015,
+      "created_at": "Wed Mar 07 01:27:09 +0000 2007",
+      "favourites_count": 1678,
+      "utc_offset": -25200,
+      "time_zone": "Pacific Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 138214,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": true,
+      "profile_background_color": "149500",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/621096023751004161/BAKy7hCT.png",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/621096023751004161/BAKy7hCT.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/615392662233808896/EtxjSSKk_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/615392662233808896/EtxjSSKk_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/816653/1474471282",
+      "profile_link_color": "097000",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDFFCC",
+      "profile_text_color": "222222",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 22,
+    "favorite_count": 21,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Sep 27 22:11:10 +0000 2016",
+    "id": 780892567160361000,
+    "id_str": "780892567160360962",
+    "text": "Tinder Boost lets you pay your way to the front of the line https://t.co/og3nPII94Z by @jordanrcrook",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "jordanrcrook",
+          "name": "Jordan Crook",
+          "id": 296338717,
+          "id_str": "296338717",
+          "indices": [
+            87,
+            100
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/og3nPII94Z",
+          "expanded_url": "http://tcrn.ch/2dpUaDV",
+          "display_url": "tcrn.ch/2dpUaDV",
+          "indices": [
+            60,
+            83
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://10up.com\" rel=\"nofollow\">10up Publish Tweet</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 816653,
+      "id_str": "816653",
+      "name": "TechCrunch",
+      "screen_name": "TechCrunch",
+      "location": "San Francisco, CA",
+      "description": "Breaking technology news, analysis, and opinions from TechCrunch. The number one guide for all things tech.\nGot a tip? Let us know tips@techcrunch.com",
+      "url": "http://t.co/b5Oyx12qGG",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/b5Oyx12qGG",
+              "expanded_url": "http://techcrunch.com",
+              "display_url": "techcrunch.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 7583553,
+      "friends_count": 856,
+      "listed_count": 107015,
+      "created_at": "Wed Mar 07 01:27:09 +0000 2007",
+      "favourites_count": 1678,
+      "utc_offset": -25200,
+      "time_zone": "Pacific Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 138214,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": true,
+      "profile_background_color": "149500",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/621096023751004161/BAKy7hCT.png",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/621096023751004161/BAKy7hCT.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/615392662233808896/EtxjSSKk_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/615392662233808896/EtxjSSKk_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/816653/1474471282",
+      "profile_link_color": "097000",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDFFCC",
+      "profile_text_color": "222222",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 18,
+    "favorite_count": 16,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Sep 27 22:09:04 +0000 2016",
+    "id": 780892036069142500,
+    "id_str": "780892036069142528",
+    "text": "Google expands its initiative to provide free Wi-Fi hotspots in emerging markets https://t.co/XobKenOddS",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/XobKenOddS",
+          "expanded_url": "http://tcrn.ch/2dgqfNO",
+          "display_url": "tcrn.ch/2dgqfNO",
+          "indices": [
+            81,
+            104
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 816653,
+      "id_str": "816653",
+      "name": "TechCrunch",
+      "screen_name": "TechCrunch",
+      "location": "San Francisco, CA",
+      "description": "Breaking technology news, analysis, and opinions from TechCrunch. The number one guide for all things tech.\nGot a tip? Let us know tips@techcrunch.com",
+      "url": "http://t.co/b5Oyx12qGG",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/b5Oyx12qGG",
+              "expanded_url": "http://techcrunch.com",
+              "display_url": "techcrunch.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 7583553,
+      "friends_count": 856,
+      "listed_count": 107015,
+      "created_at": "Wed Mar 07 01:27:09 +0000 2007",
+      "favourites_count": 1678,
+      "utc_offset": -25200,
+      "time_zone": "Pacific Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 138214,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": true,
+      "profile_background_color": "149500",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/621096023751004161/BAKy7hCT.png",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/621096023751004161/BAKy7hCT.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/615392662233808896/EtxjSSKk_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/615392662233808896/EtxjSSKk_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/816653/1474471282",
+      "profile_link_color": "097000",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDFFCC",
+      "profile_text_color": "222222",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 39,
+    "favorite_count": 37,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Sep 27 22:00:24 +0000 2016",
+    "id": 780889856964644900,
+    "id_str": "780889856964644864",
+    "text": "What to look for in the next Pokémon Go https://t.co/PkmYzgJeqQ https://t.co/7p637CmlqP",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/PkmYzgJeqQ",
+          "expanded_url": "http://tcrn.ch/2cJfPIS",
+          "display_url": "tcrn.ch/2cJfPIS",
+          "indices": [
+            40,
+            63
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 780889854460645400,
+          "id_str": "780889854460645376",
+          "indices": [
+            64,
+            87
+          ],
+          "media_url": "http://pbs.twimg.com/media/CtZHL2_VUAAxDJH.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CtZHL2_VUAAxDJH.jpg",
+          "url": "https://t.co/7p637CmlqP",
+          "display_url": "pic.twitter.com/7p637CmlqP",
+          "expanded_url": "https://twitter.com/TechCrunch/status/780889856964644864/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1152,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 780889854460645400,
+          "id_str": "780889854460645376",
+          "indices": [
+            64,
+            87
+          ],
+          "media_url": "http://pbs.twimg.com/media/CtZHL2_VUAAxDJH.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CtZHL2_VUAAxDJH.jpg",
+          "url": "https://t.co/7p637CmlqP",
+          "display_url": "pic.twitter.com/7p637CmlqP",
+          "expanded_url": "https://twitter.com/TechCrunch/status/780889856964644864/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1152,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://10up.com\" rel=\"nofollow\">10up Publish Tweet</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 816653,
+      "id_str": "816653",
+      "name": "TechCrunch",
+      "screen_name": "TechCrunch",
+      "location": "San Francisco, CA",
+      "description": "Breaking technology news, analysis, and opinions from TechCrunch. The number one guide for all things tech.\nGot a tip? Let us know tips@techcrunch.com",
+      "url": "http://t.co/b5Oyx12qGG",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/b5Oyx12qGG",
+              "expanded_url": "http://techcrunch.com",
+              "display_url": "techcrunch.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 7583553,
+      "friends_count": 856,
+      "listed_count": 107015,
+      "created_at": "Wed Mar 07 01:27:09 +0000 2007",
+      "favourites_count": 1678,
+      "utc_offset": -25200,
+      "time_zone": "Pacific Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 138214,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": true,
+      "profile_background_color": "149500",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/621096023751004161/BAKy7hCT.png",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/621096023751004161/BAKy7hCT.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/615392662233808896/EtxjSSKk_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/615392662233808896/EtxjSSKk_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/816653/1474471282",
+      "profile_link_color": "097000",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDFFCC",
+      "profile_text_color": "222222",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 33,
+    "favorite_count": 20,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Sep 27 21:46:04 +0000 2016",
+    "id": 780886246688165900,
+    "id_str": "780886246688165889",
+    "text": "Google launches data-friendly YouTube app for India and other emerging markets https://t.co/IzNma3piVa",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/IzNma3piVa",
+          "expanded_url": "http://tcrn.ch/2dgjewq",
+          "display_url": "tcrn.ch/2dgjewq",
+          "indices": [
+            79,
+            102
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 816653,
+      "id_str": "816653",
+      "name": "TechCrunch",
+      "screen_name": "TechCrunch",
+      "location": "San Francisco, CA",
+      "description": "Breaking technology news, analysis, and opinions from TechCrunch. The number one guide for all things tech.\nGot a tip? Let us know tips@techcrunch.com",
+      "url": "http://t.co/b5Oyx12qGG",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/b5Oyx12qGG",
+              "expanded_url": "http://techcrunch.com",
+              "display_url": "techcrunch.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 7583553,
+      "friends_count": 856,
+      "listed_count": 107015,
+      "created_at": "Wed Mar 07 01:27:09 +0000 2007",
+      "favourites_count": 1678,
+      "utc_offset": -25200,
+      "time_zone": "Pacific Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 138214,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": true,
+      "profile_background_color": "149500",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/621096023751004161/BAKy7hCT.png",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/621096023751004161/BAKy7hCT.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/615392662233808896/EtxjSSKk_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/615392662233808896/EtxjSSKk_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/816653/1474471282",
+      "profile_link_color": "097000",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDFFCC",
+      "profile_text_color": "222222",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 27,
+    "favorite_count": 36,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Sep 27 21:39:16 +0000 2016",
+    "id": 780884537517629400,
+    "id_str": "780884537517629440",
+    "text": "\"Good guy\" loan startup LendUp fined $6.3M for overcharging https://t.co/hCBCGXjyJp by @joshconstine",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "JoshConstine",
+          "name": "Josh Constine",
+          "id": 19563366,
+          "id_str": "19563366",
+          "indices": [
+            87,
+            100
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/hCBCGXjyJp",
+          "expanded_url": "http://tcrn.ch/2digUEY",
+          "display_url": "tcrn.ch/2digUEY",
+          "indices": [
+            60,
+            83
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://10up.com\" rel=\"nofollow\">10up Publish Tweet</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 816653,
+      "id_str": "816653",
+      "name": "TechCrunch",
+      "screen_name": "TechCrunch",
+      "location": "San Francisco, CA",
+      "description": "Breaking technology news, analysis, and opinions from TechCrunch. The number one guide for all things tech.\nGot a tip? Let us know tips@techcrunch.com",
+      "url": "http://t.co/b5Oyx12qGG",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/b5Oyx12qGG",
+              "expanded_url": "http://techcrunch.com",
+              "display_url": "techcrunch.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 7583553,
+      "friends_count": 856,
+      "listed_count": 107015,
+      "created_at": "Wed Mar 07 01:27:09 +0000 2007",
+      "favourites_count": 1678,
+      "utc_offset": -25200,
+      "time_zone": "Pacific Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 138214,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": true,
+      "profile_background_color": "149500",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/621096023751004161/BAKy7hCT.png",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/621096023751004161/BAKy7hCT.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/615392662233808896/EtxjSSKk_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/615392662233808896/EtxjSSKk_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/816653/1474471282",
+      "profile_link_color": "097000",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDFFCC",
+      "profile_text_color": "222222",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 26,
+    "favorite_count": 33,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Sep 27 21:36:07 +0000 2016",
+    "id": 780883743795851300,
+    "id_str": "780883743795851264",
+    "text": "The OX is a flat-pack truck for the developing world https://t.co/TwlmcY7weO by @kristenhg",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "kristenhg",
+          "name": "KHG",
+          "id": 14788237,
+          "id_str": "14788237",
+          "indices": [
+            80,
+            90
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/TwlmcY7weO",
+          "expanded_url": "http://tcrn.ch/2digtdO",
+          "display_url": "tcrn.ch/2digtdO",
+          "indices": [
+            53,
+            76
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://10up.com\" rel=\"nofollow\">10up Publish Tweet</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 816653,
+      "id_str": "816653",
+      "name": "TechCrunch",
+      "screen_name": "TechCrunch",
+      "location": "San Francisco, CA",
+      "description": "Breaking technology news, analysis, and opinions from TechCrunch. The number one guide for all things tech.\nGot a tip? Let us know tips@techcrunch.com",
+      "url": "http://t.co/b5Oyx12qGG",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/b5Oyx12qGG",
+              "expanded_url": "http://techcrunch.com",
+              "display_url": "techcrunch.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 7583553,
+      "friends_count": 856,
+      "listed_count": 107015,
+      "created_at": "Wed Mar 07 01:27:09 +0000 2007",
+      "favourites_count": 1678,
+      "utc_offset": -25200,
+      "time_zone": "Pacific Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 138214,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": true,
+      "profile_background_color": "149500",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/621096023751004161/BAKy7hCT.png",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/621096023751004161/BAKy7hCT.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/615392662233808896/EtxjSSKk_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/615392662233808896/EtxjSSKk_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/816653/1474471282",
+      "profile_link_color": "097000",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDFFCC",
+      "profile_text_color": "222222",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 28,
+    "favorite_count": 34,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Sep 27 21:14:43 +0000 2016",
+    "id": 780878357374337000,
+    "id_str": "780878357374337024",
+    "text": "Everything you need to know about SpaceX's plan to colonize Mars https://t.co/Dv0zaWLCLo https://t.co/cmVk75NfDF",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/Dv0zaWLCLo",
+          "expanded_url": "http://tcrn.ch/2d7vIJZ",
+          "display_url": "tcrn.ch/2d7vIJZ",
+          "indices": [
+            65,
+            88
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 780878351460360200,
+          "id_str": "780878351460360192",
+          "indices": [
+            89,
+            112
+          ],
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/CtY8uS-WYAA-FVz.jpg",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CtY8uS-WYAA-FVz.jpg",
+          "url": "https://t.co/cmVk75NfDF",
+          "display_url": "pic.twitter.com/cmVk75NfDF",
+          "expanded_url": "https://twitter.com/TechCrunch/status/780878357374337024/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 600,
+              "h": 332,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 340,
+              "h": 188,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 680,
+              "h": 376,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 780878351460360200,
+          "id_str": "780878351460360192",
+          "indices": [
+            89,
+            112
+          ],
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/CtY8uS-WYAA-FVz.jpg",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CtY8uS-WYAA-FVz.jpg",
+          "url": "https://t.co/cmVk75NfDF",
+          "display_url": "pic.twitter.com/cmVk75NfDF",
+          "expanded_url": "https://twitter.com/TechCrunch/status/780878357374337024/photo/1",
+          "type": "animated_gif",
+          "sizes": {
+            "medium": {
+              "w": 600,
+              "h": 332,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 340,
+              "h": 188,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 680,
+              "h": 376,
+              "resize": "fit"
+            }
+          },
+          "video_info": {
+            "aspect_ratio": [
+              85,
+              47
+            ],
+            "variants": [
+              {
+                "bitrate": 0,
+                "content_type": "video/mp4",
+                "url": "https://pbs.twimg.com/tweet_video/CtY8uS-WYAA-FVz.mp4"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 816653,
+      "id_str": "816653",
+      "name": "TechCrunch",
+      "screen_name": "TechCrunch",
+      "location": "San Francisco, CA",
+      "description": "Breaking technology news, analysis, and opinions from TechCrunch. The number one guide for all things tech.\nGot a tip? Let us know tips@techcrunch.com",
+      "url": "http://t.co/b5Oyx12qGG",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/b5Oyx12qGG",
+              "expanded_url": "http://techcrunch.com",
+              "display_url": "techcrunch.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 7583553,
+      "friends_count": 856,
+      "listed_count": 107015,
+      "created_at": "Wed Mar 07 01:27:09 +0000 2007",
+      "favourites_count": 1678,
+      "utc_offset": -25200,
+      "time_zone": "Pacific Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 138214,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": true,
+      "profile_background_color": "149500",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/621096023751004161/BAKy7hCT.png",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/621096023751004161/BAKy7hCT.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/615392662233808896/EtxjSSKk_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/615392662233808896/EtxjSSKk_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/816653/1474471282",
+      "profile_link_color": "097000",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDFFCC",
+      "profile_text_color": "222222",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 76,
+    "favorite_count": 93,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Sep 27 21:06:03 +0000 2016",
+    "id": 780876178349580300,
+    "id_str": "780876178349580289",
+    "text": "Xiaomi’s newest phones include dual-lens camera and under-glass fingerprint reader https://t.co/ar0M7aVNp6",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/ar0M7aVNp6",
+          "expanded_url": "http://tcrn.ch/2dgbxq5",
+          "display_url": "tcrn.ch/2dgbxq5",
+          "indices": [
+            83,
+            106
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 816653,
+      "id_str": "816653",
+      "name": "TechCrunch",
+      "screen_name": "TechCrunch",
+      "location": "San Francisco, CA",
+      "description": "Breaking technology news, analysis, and opinions from TechCrunch. The number one guide for all things tech.\nGot a tip? Let us know tips@techcrunch.com",
+      "url": "http://t.co/b5Oyx12qGG",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/b5Oyx12qGG",
+              "expanded_url": "http://techcrunch.com",
+              "display_url": "techcrunch.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 7583553,
+      "friends_count": 856,
+      "listed_count": 107015,
+      "created_at": "Wed Mar 07 01:27:09 +0000 2007",
+      "favourites_count": 1678,
+      "utc_offset": -25200,
+      "time_zone": "Pacific Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 138214,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": true,
+      "profile_background_color": "149500",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/621096023751004161/BAKy7hCT.png",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/621096023751004161/BAKy7hCT.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/615392662233808896/EtxjSSKk_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/615392662233808896/EtxjSSKk_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/816653/1474471282",
+      "profile_link_color": "097000",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDFFCC",
+      "profile_text_color": "222222",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 33,
+    "favorite_count": 40,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  }
+]

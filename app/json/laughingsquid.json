@@ -1,0 +1,4718 @@
+[
+  {
+    "created_at": "Wed Sep 28 01:03:05 +0000 2016",
+    "id": 780935829887803400,
+    "id_str": "780935829887803392",
+    "text": "The Imperial March From Star Wars Played in a Major Key Makes It Sound Happy and Upbeat https://t.co/Tw5ubQSwwN https://t.co/6h78rzFb2Y",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/Tw5ubQSwwN",
+          "expanded_url": "http://laughingsquid.com/the-imperial-march-from-star-wars-played-in-a-major-key-makes-it-sound-happy-and-upbeat/",
+          "display_url": "laughingsquid.com/the-imperial-m…",
+          "indices": [
+            88,
+            111
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 780935828163928000,
+          "id_str": "780935828163928065",
+          "indices": [
+            112,
+            135
+          ],
+          "media_url": "http://pbs.twimg.com/media/CtZw_4YWIAEdGpu.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CtZw_4YWIAEdGpu.jpg",
+          "url": "https://t.co/6h78rzFb2Y",
+          "display_url": "pic.twitter.com/6h78rzFb2Y",
+          "expanded_url": "https://twitter.com/LaughingSquid/status/780935829887803392/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1920,
+              "h": 1080,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 780935828163928000,
+          "id_str": "780935828163928065",
+          "indices": [
+            112,
+            135
+          ],
+          "media_url": "http://pbs.twimg.com/media/CtZw_4YWIAEdGpu.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CtZw_4YWIAEdGpu.jpg",
+          "url": "https://t.co/6h78rzFb2Y",
+          "display_url": "pic.twitter.com/6h78rzFb2Y",
+          "expanded_url": "https://twitter.com/LaughingSquid/status/780935829887803392/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1920,
+              "h": 1080,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2172,
+      "id_str": "2172",
+      "name": "Laughing Squid",
+      "screen_name": "LaughingSquid",
+      "location": "New York City",
+      "description": "An art, culture & technology blog and a web hosting company (@LS_Hosting) focused on @WordPress hosting, founded in 1995 by @ScottBeale.",
+      "url": "http://t.co/3Rw9oSSmY4",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/3Rw9oSSmY4",
+              "expanded_url": "http://laughingsquid.com",
+              "display_url": "laughingsquid.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 590513,
+      "friends_count": 11,
+      "listed_count": 12216,
+      "created_at": "Tue Jul 18 02:46:45 +0000 2006",
+      "favourites_count": 80,
+      "utc_offset": -14400,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 65402,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/418456260971732992/By5KkDKn_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/418456260971732992/By5KkDKn_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2172/1408727604",
+      "profile_link_color": "008B45",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 9,
+    "favorite_count": 17,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Sep 28 00:33:01 +0000 2016",
+    "id": 780928263770234900,
+    "id_str": "780928263770234880",
+    "text": "A 3D Printed Sundial That Displays the Time in Digital Format Without the Use of Electronics https://t.co/HX5t94Oyn4 https://t.co/MQ5NlU6sdu",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/HX5t94Oyn4",
+          "expanded_url": "http://laughingsquid.com/a-3d-printed-sundial-that-displays-the-time-in-digital-format-without-the-use-of-electronics/",
+          "display_url": "laughingsquid.com/a-3d-printed-s…",
+          "indices": [
+            93,
+            116
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 780928261924778000,
+          "id_str": "780928261924777984",
+          "indices": [
+            117,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/CtZqHd8W8AANEOv.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CtZqHd8W8AANEOv.jpg",
+          "url": "https://t.co/MQ5NlU6sdu",
+          "display_url": "pic.twitter.com/MQ5NlU6sdu",
+          "expanded_url": "https://twitter.com/LaughingSquid/status/780928263770234880/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 454,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 700,
+              "h": 467,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 700,
+              "h": 467,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 780928261924778000,
+          "id_str": "780928261924777984",
+          "indices": [
+            117,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/CtZqHd8W8AANEOv.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CtZqHd8W8AANEOv.jpg",
+          "url": "https://t.co/MQ5NlU6sdu",
+          "display_url": "pic.twitter.com/MQ5NlU6sdu",
+          "expanded_url": "https://twitter.com/LaughingSquid/status/780928263770234880/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 454,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 700,
+              "h": 467,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 700,
+              "h": 467,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2172,
+      "id_str": "2172",
+      "name": "Laughing Squid",
+      "screen_name": "LaughingSquid",
+      "location": "New York City",
+      "description": "An art, culture & technology blog and a web hosting company (@LS_Hosting) focused on @WordPress hosting, founded in 1995 by @ScottBeale.",
+      "url": "http://t.co/3Rw9oSSmY4",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/3Rw9oSSmY4",
+              "expanded_url": "http://laughingsquid.com",
+              "display_url": "laughingsquid.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 590513,
+      "friends_count": 11,
+      "listed_count": 12216,
+      "created_at": "Tue Jul 18 02:46:45 +0000 2006",
+      "favourites_count": 80,
+      "utc_offset": -14400,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 65402,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/418456260971732992/By5KkDKn_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/418456260971732992/By5KkDKn_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2172/1408727604",
+      "profile_link_color": "008B45",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 26,
+    "favorite_count": 52,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Sep 28 00:03:02 +0000 2016",
+    "id": 780920715520380900,
+    "id_str": "780920715520380928",
+    "text": "Young Koala Joey Has Herself a Good Long Cry After a Big Bully Throws Her Out of Her Tree https://t.co/O5OoXSOoL0 https://t.co/5trec09Xom",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/O5OoXSOoL0",
+          "expanded_url": "http://laughingsquid.com/young-koala-joey-has-herself-a-good-long-cry-after-a-big-bully-throws-her-out-of-her-tree/",
+          "display_url": "laughingsquid.com/young-koala-jo…",
+          "indices": [
+            90,
+            113
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 780920713293201400,
+          "id_str": "780920713293201409",
+          "indices": [
+            114,
+            137
+          ],
+          "media_url": "http://pbs.twimg.com/media/CtZjQFGWAAEKz7z.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CtZjQFGWAAEKz7z.jpg",
+          "url": "https://t.co/5trec09Xom",
+          "display_url": "pic.twitter.com/5trec09Xom",
+          "expanded_url": "https://twitter.com/LaughingSquid/status/780920715520380928/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1200,
+              "h": 967,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1340,
+              "h": 1080,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 548,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 780920713293201400,
+          "id_str": "780920713293201409",
+          "indices": [
+            114,
+            137
+          ],
+          "media_url": "http://pbs.twimg.com/media/CtZjQFGWAAEKz7z.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CtZjQFGWAAEKz7z.jpg",
+          "url": "https://t.co/5trec09Xom",
+          "display_url": "pic.twitter.com/5trec09Xom",
+          "expanded_url": "https://twitter.com/LaughingSquid/status/780920715520380928/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1200,
+              "h": 967,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1340,
+              "h": 1080,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 548,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2172,
+      "id_str": "2172",
+      "name": "Laughing Squid",
+      "screen_name": "LaughingSquid",
+      "location": "New York City",
+      "description": "An art, culture & technology blog and a web hosting company (@LS_Hosting) focused on @WordPress hosting, founded in 1995 by @ScottBeale.",
+      "url": "http://t.co/3Rw9oSSmY4",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/3Rw9oSSmY4",
+              "expanded_url": "http://laughingsquid.com",
+              "display_url": "laughingsquid.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 590513,
+      "friends_count": 11,
+      "listed_count": 12216,
+      "created_at": "Tue Jul 18 02:46:45 +0000 2006",
+      "favourites_count": 80,
+      "utc_offset": -14400,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 65402,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/418456260971732992/By5KkDKn_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/418456260971732992/By5KkDKn_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2172/1408727604",
+      "profile_link_color": "008B45",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 21,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Sep 27 22:03:08 +0000 2016",
+    "id": 780890542804725800,
+    "id_str": "780890542804725760",
+    "text": "Elon Musk and SpaceX Announce Details of Plan to Colonize Mars With an Interplanetary System https://t.co/h61LGuS4n6 https://t.co/cATyv16pQ5",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/h61LGuS4n6",
+          "expanded_url": "http://laughingsquid.com/elon-musk-and-spacex-announce-details-of-plan-to-colonize-mars-with-an-interplanetary-system/",
+          "display_url": "laughingsquid.com/elon-musk-and-…",
+          "indices": [
+            93,
+            116
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 780890540355252200,
+          "id_str": "780890540355252224",
+          "indices": [
+            117,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/CtZHzyJWcAAfReJ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CtZHzyJWcAAfReJ.jpg",
+          "url": "https://t.co/cATyv16pQ5",
+          "display_url": "pic.twitter.com/cATyv16pQ5",
+          "expanded_url": "https://twitter.com/LaughingSquid/status/780890542804725760/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1920,
+              "h": 1080,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 780890540355252200,
+          "id_str": "780890540355252224",
+          "indices": [
+            117,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/CtZHzyJWcAAfReJ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CtZHzyJWcAAfReJ.jpg",
+          "url": "https://t.co/cATyv16pQ5",
+          "display_url": "pic.twitter.com/cATyv16pQ5",
+          "expanded_url": "https://twitter.com/LaughingSquid/status/780890542804725760/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1920,
+              "h": 1080,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2172,
+      "id_str": "2172",
+      "name": "Laughing Squid",
+      "screen_name": "LaughingSquid",
+      "location": "New York City",
+      "description": "An art, culture & technology blog and a web hosting company (@LS_Hosting) focused on @WordPress hosting, founded in 1995 by @ScottBeale.",
+      "url": "http://t.co/3Rw9oSSmY4",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/3Rw9oSSmY4",
+              "expanded_url": "http://laughingsquid.com",
+              "display_url": "laughingsquid.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 590513,
+      "friends_count": 11,
+      "listed_count": 12216,
+      "created_at": "Tue Jul 18 02:46:45 +0000 2006",
+      "favourites_count": 80,
+      "utc_offset": -14400,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 65402,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/418456260971732992/By5KkDKn_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/418456260971732992/By5KkDKn_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2172/1408727604",
+      "profile_link_color": "008B45",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "favorite_count": 13,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Sep 27 21:33:13 +0000 2016",
+    "id": 780883013517340700,
+    "id_str": "780883013517340672",
+    "text": "The Key Films That Significantly Influenced and Inspired the Characters of Mr. Robot https://t.co/cKcOaFJS6C https://t.co/l4VC2BJVpr",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/cKcOaFJS6C",
+          "expanded_url": "http://laughingsquid.com/the-key-films-that-significantly-influenced-and-inspired-the-characters-of-mr-robot/",
+          "display_url": "laughingsquid.com/the-key-films-…",
+          "indices": [
+            85,
+            108
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 780883010379972600,
+          "id_str": "780883010379972608",
+          "indices": [
+            109,
+            132
+          ],
+          "media_url": "http://pbs.twimg.com/media/CtZA9ezWAAA46V3.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CtZA9ezWAAA46V3.jpg",
+          "url": "https://t.co/l4VC2BJVpr",
+          "display_url": "pic.twitter.com/l4VC2BJVpr",
+          "expanded_url": "https://twitter.com/LaughingSquid/status/780883013517340672/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1280,
+              "h": 720,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 780883010379972600,
+          "id_str": "780883010379972608",
+          "indices": [
+            109,
+            132
+          ],
+          "media_url": "http://pbs.twimg.com/media/CtZA9ezWAAA46V3.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CtZA9ezWAAA46V3.jpg",
+          "url": "https://t.co/l4VC2BJVpr",
+          "display_url": "pic.twitter.com/l4VC2BJVpr",
+          "expanded_url": "https://twitter.com/LaughingSquid/status/780883013517340672/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1280,
+              "h": 720,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2172,
+      "id_str": "2172",
+      "name": "Laughing Squid",
+      "screen_name": "LaughingSquid",
+      "location": "New York City",
+      "description": "An art, culture & technology blog and a web hosting company (@LS_Hosting) focused on @WordPress hosting, founded in 1995 by @ScottBeale.",
+      "url": "http://t.co/3Rw9oSSmY4",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/3Rw9oSSmY4",
+              "expanded_url": "http://laughingsquid.com",
+              "display_url": "laughingsquid.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 590513,
+      "friends_count": 11,
+      "listed_count": 12216,
+      "created_at": "Tue Jul 18 02:46:45 +0000 2006",
+      "favourites_count": 80,
+      "utc_offset": -14400,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 65402,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/418456260971732992/By5KkDKn_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/418456260971732992/By5KkDKn_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2172/1408727604",
+      "profile_link_color": "008B45",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 12,
+    "favorite_count": 11,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Sep 27 21:33:03 +0000 2016",
+    "id": 780882972874604500,
+    "id_str": "780882972874604544",
+    "text": "Stevie Wonder Opens Up About His Childhood, His Religion and His Intolerance for Ignorance https://t.co/13EHBicUv6 https://t.co/r1cTeVthd5",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/13EHBicUv6",
+          "expanded_url": "http://laughingsquid.com/stevie-wonder-opens-up-about-his-childhood-his-religion-and-his-intolerance-for-ignorance/",
+          "display_url": "laughingsquid.com/stevie-wonder-…",
+          "indices": [
+            91,
+            114
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 780882971108802600,
+          "id_str": "780882971108802560",
+          "indices": [
+            115,
+            138
+          ],
+          "media_url": "http://pbs.twimg.com/media/CtZA7MgXgAA7g3l.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CtZA7MgXgAA7g3l.jpg",
+          "url": "https://t.co/r1cTeVthd5",
+          "display_url": "pic.twitter.com/r1cTeVthd5",
+          "expanded_url": "https://twitter.com/LaughingSquid/status/780882972874604544/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1280,
+              "h": 720,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 780882971108802600,
+          "id_str": "780882971108802560",
+          "indices": [
+            115,
+            138
+          ],
+          "media_url": "http://pbs.twimg.com/media/CtZA7MgXgAA7g3l.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CtZA7MgXgAA7g3l.jpg",
+          "url": "https://t.co/r1cTeVthd5",
+          "display_url": "pic.twitter.com/r1cTeVthd5",
+          "expanded_url": "https://twitter.com/LaughingSquid/status/780882972874604544/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1280,
+              "h": 720,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2172,
+      "id_str": "2172",
+      "name": "Laughing Squid",
+      "screen_name": "LaughingSquid",
+      "location": "New York City",
+      "description": "An art, culture & technology blog and a web hosting company (@LS_Hosting) focused on @WordPress hosting, founded in 1995 by @ScottBeale.",
+      "url": "http://t.co/3Rw9oSSmY4",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/3Rw9oSSmY4",
+              "expanded_url": "http://laughingsquid.com",
+              "display_url": "laughingsquid.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 590513,
+      "friends_count": 11,
+      "listed_count": 12216,
+      "created_at": "Tue Jul 18 02:46:45 +0000 2006",
+      "favourites_count": 80,
+      "utc_offset": -14400,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 65402,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/418456260971732992/By5KkDKn_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/418456260971732992/By5KkDKn_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2172/1408727604",
+      "profile_link_color": "008B45",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 11,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Sep 27 21:03:11 +0000 2016",
+    "id": 780875458174971900,
+    "id_str": "780875458174971904",
+    "text": "Former President George W. Bush Taps President Barack Obama For Help Taking a Cellphone Photo… https://t.co/Aasaj523iy",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/Aasaj523iy",
+          "expanded_url": "https://twitter.com/i/web/status/780875458174971904",
+          "display_url": "twitter.com/i/web/status/7…",
+          "indices": [
+            95,
+            118
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2172,
+      "id_str": "2172",
+      "name": "Laughing Squid",
+      "screen_name": "LaughingSquid",
+      "location": "New York City",
+      "description": "An art, culture & technology blog and a web hosting company (@LS_Hosting) focused on @WordPress hosting, founded in 1995 by @ScottBeale.",
+      "url": "http://t.co/3Rw9oSSmY4",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/3Rw9oSSmY4",
+              "expanded_url": "http://laughingsquid.com",
+              "display_url": "laughingsquid.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 590513,
+      "friends_count": 11,
+      "listed_count": 12216,
+      "created_at": "Tue Jul 18 02:46:45 +0000 2006",
+      "favourites_count": 80,
+      "utc_offset": -14400,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 65402,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/418456260971732992/By5KkDKn_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/418456260971732992/By5KkDKn_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2172/1408727604",
+      "profile_link_color": "008B45",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Sep 27 20:48:04 +0000 2016",
+    "id": 780871653748277200,
+    "id_str": "780871653748277248",
+    "text": "The Beautiful Colors of Iconic American Street Food as Revealed Under a Thermal Camera https://t.co/wTcj8nicY4 https://t.co/aOXPprVf7r",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/wTcj8nicY4",
+          "expanded_url": "http://laughingsquid.com/the-beautiful-colors-of-iconic-american-street-food-as-revealed-under-a-thermal-camera/",
+          "display_url": "laughingsquid.com/the-beautiful-…",
+          "indices": [
+            87,
+            110
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 780871651613433900,
+          "id_str": "780871651613433856",
+          "indices": [
+            111,
+            134
+          ],
+          "media_url": "http://pbs.twimg.com/media/CtY2oUGXYAA-VXU.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CtY2oUGXYAA-VXU.jpg",
+          "url": "https://t.co/aOXPprVf7r",
+          "display_url": "pic.twitter.com/aOXPprVf7r",
+          "expanded_url": "https://twitter.com/LaughingSquid/status/780871653748277248/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 511,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1080,
+              "h": 812,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1080,
+              "h": 812,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 780871651613433900,
+          "id_str": "780871651613433856",
+          "indices": [
+            111,
+            134
+          ],
+          "media_url": "http://pbs.twimg.com/media/CtY2oUGXYAA-VXU.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CtY2oUGXYAA-VXU.jpg",
+          "url": "https://t.co/aOXPprVf7r",
+          "display_url": "pic.twitter.com/aOXPprVf7r",
+          "expanded_url": "https://twitter.com/LaughingSquid/status/780871653748277248/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 511,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1080,
+              "h": 812,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1080,
+              "h": 812,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2172,
+      "id_str": "2172",
+      "name": "Laughing Squid",
+      "screen_name": "LaughingSquid",
+      "location": "New York City",
+      "description": "An art, culture & technology blog and a web hosting company (@LS_Hosting) focused on @WordPress hosting, founded in 1995 by @ScottBeale.",
+      "url": "http://t.co/3Rw9oSSmY4",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/3Rw9oSSmY4",
+              "expanded_url": "http://laughingsquid.com",
+              "display_url": "laughingsquid.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 590513,
+      "friends_count": 11,
+      "listed_count": 12216,
+      "created_at": "Tue Jul 18 02:46:45 +0000 2006",
+      "favourites_count": 80,
+      "utc_offset": -14400,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 65402,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/418456260971732992/By5KkDKn_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/418456260971732992/By5KkDKn_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2172/1408727604",
+      "profile_link_color": "008B45",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 9,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Sep 27 20:33:12 +0000 2016",
+    "id": 780867909115576300,
+    "id_str": "780867909115576321",
+    "text": "DJI Mavic, A Compact Yet Powerful 4K Camera Drone That Can Automatically Follow a Subject https://t.co/ClgP5WLG2V https://t.co/SvvGIntDpj",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/ClgP5WLG2V",
+          "expanded_url": "http://laughingsquid.com/dji-mavic-a-compact-yet-powerful-4k-camera-drone-that-can-automatically-follow-a-subject/",
+          "display_url": "laughingsquid.com/dji-mavic-a-co…",
+          "indices": [
+            90,
+            113
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 780867907446272000,
+          "id_str": "780867907446272000",
+          "indices": [
+            114,
+            137
+          ],
+          "media_url": "http://pbs.twimg.com/media/CtYzOX_WcAAdjiP.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CtYzOX_WcAAdjiP.jpg",
+          "url": "https://t.co/SvvGIntDpj",
+          "display_url": "pic.twitter.com/SvvGIntDpj",
+          "expanded_url": "https://twitter.com/LaughingSquid/status/780867909115576321/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1000,
+              "h": 540,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 367,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1000,
+              "h": 540,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 780867907446272000,
+          "id_str": "780867907446272000",
+          "indices": [
+            114,
+            137
+          ],
+          "media_url": "http://pbs.twimg.com/media/CtYzOX_WcAAdjiP.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CtYzOX_WcAAdjiP.jpg",
+          "url": "https://t.co/SvvGIntDpj",
+          "display_url": "pic.twitter.com/SvvGIntDpj",
+          "expanded_url": "https://twitter.com/LaughingSquid/status/780867909115576321/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1000,
+              "h": 540,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 367,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1000,
+              "h": 540,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2172,
+      "id_str": "2172",
+      "name": "Laughing Squid",
+      "screen_name": "LaughingSquid",
+      "location": "New York City",
+      "description": "An art, culture & technology blog and a web hosting company (@LS_Hosting) focused on @WordPress hosting, founded in 1995 by @ScottBeale.",
+      "url": "http://t.co/3Rw9oSSmY4",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/3Rw9oSSmY4",
+              "expanded_url": "http://laughingsquid.com",
+              "display_url": "laughingsquid.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 590513,
+      "friends_count": 11,
+      "listed_count": 12216,
+      "created_at": "Tue Jul 18 02:46:45 +0000 2006",
+      "favourites_count": 80,
+      "utc_offset": -14400,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 65402,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/418456260971732992/By5KkDKn_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/418456260971732992/By5KkDKn_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2172/1408727604",
+      "profile_link_color": "008B45",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 12,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Sep 27 20:18:02 +0000 2016",
+    "id": 780864095755132900,
+    "id_str": "780864095755132928",
+    "text": "The Best Soundbites From the First Presidential Debate Are Songified Under the Direction of Blondie… https://t.co/gXLRsyqhJs",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/gXLRsyqhJs",
+          "expanded_url": "https://twitter.com/i/web/status/780864095755132928",
+          "display_url": "twitter.com/i/web/status/7…",
+          "indices": [
+            101,
+            124
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2172,
+      "id_str": "2172",
+      "name": "Laughing Squid",
+      "screen_name": "LaughingSquid",
+      "location": "New York City",
+      "description": "An art, culture & technology blog and a web hosting company (@LS_Hosting) focused on @WordPress hosting, founded in 1995 by @ScottBeale.",
+      "url": "http://t.co/3Rw9oSSmY4",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/3Rw9oSSmY4",
+              "expanded_url": "http://laughingsquid.com",
+              "display_url": "laughingsquid.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 590513,
+      "friends_count": 11,
+      "listed_count": 12216,
+      "created_at": "Tue Jul 18 02:46:45 +0000 2006",
+      "favourites_count": 80,
+      "utc_offset": -14400,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 65402,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/418456260971732992/By5KkDKn_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/418456260971732992/By5KkDKn_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2172/1408727604",
+      "profile_link_color": "008B45",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Sep 27 20:03:13 +0000 2016",
+    "id": 780860367505416200,
+    "id_str": "780860367505416192",
+    "text": "A Toilet Flushed Using 240 lbs of Mercury https://t.co/6K4eh1TvT7 https://t.co/MOOFj1moo4",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/6K4eh1TvT7",
+          "expanded_url": "http://laughingsquid.com/a-toilet-flushed-using-240-lbs-of-mercury/",
+          "display_url": "laughingsquid.com/a-toilet-flush…",
+          "indices": [
+            42,
+            65
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 780860363831205900,
+          "id_str": "780860363831205888",
+          "indices": [
+            66,
+            89
+          ],
+          "media_url": "http://pbs.twimg.com/media/CtYsXR1XYAAoFN0.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CtYsXR1XYAAoFN0.jpg",
+          "url": "https://t.co/MOOFj1moo4",
+          "display_url": "pic.twitter.com/MOOFj1moo4",
+          "expanded_url": "https://twitter.com/LaughingSquid/status/780860367505416192/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 452,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1450,
+              "h": 964,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 798,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 780860363831205900,
+          "id_str": "780860363831205888",
+          "indices": [
+            66,
+            89
+          ],
+          "media_url": "http://pbs.twimg.com/media/CtYsXR1XYAAoFN0.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CtYsXR1XYAAoFN0.jpg",
+          "url": "https://t.co/MOOFj1moo4",
+          "display_url": "pic.twitter.com/MOOFj1moo4",
+          "expanded_url": "https://twitter.com/LaughingSquid/status/780860367505416192/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 452,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1450,
+              "h": 964,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 798,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2172,
+      "id_str": "2172",
+      "name": "Laughing Squid",
+      "screen_name": "LaughingSquid",
+      "location": "New York City",
+      "description": "An art, culture & technology blog and a web hosting company (@LS_Hosting) focused on @WordPress hosting, founded in 1995 by @ScottBeale.",
+      "url": "http://t.co/3Rw9oSSmY4",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/3Rw9oSSmY4",
+              "expanded_url": "http://laughingsquid.com",
+              "display_url": "laughingsquid.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 590513,
+      "friends_count": 11,
+      "listed_count": 12216,
+      "created_at": "Tue Jul 18 02:46:45 +0000 2006",
+      "favourites_count": 80,
+      "utc_offset": -14400,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 65402,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/418456260971732992/By5KkDKn_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/418456260971732992/By5KkDKn_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2172/1408727604",
+      "profile_link_color": "008B45",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 8,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Sep 27 19:48:02 +0000 2016",
+    "id": 780856542929252400,
+    "id_str": "780856542929252352",
+    "text": "Donald Trump Travels Back in Time to Participate in the Historic 1960 Kennedy-Nixon Debates https://t.co/pAGa7hedSL https://t.co/Wk5It5Hj5R",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/pAGa7hedSL",
+          "expanded_url": "http://laughingsquid.com/donald-trump-travels-back-in-time-to-participate-in-the-historic-1960-kennedy-nixon-debates/",
+          "display_url": "laughingsquid.com/donald-trump-t…",
+          "indices": [
+            92,
+            115
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 780856539322122200,
+          "id_str": "780856539322122240",
+          "indices": [
+            116,
+            139
+          ],
+          "media_url": "http://pbs.twimg.com/media/CtYo4qbWAAACWIS.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CtYo4qbWAAACWIS.jpg",
+          "url": "https://t.co/Wk5It5Hj5R",
+          "display_url": "pic.twitter.com/Wk5It5Hj5R",
+          "expanded_url": "https://twitter.com/LaughingSquid/status/780856542929252352/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1280,
+              "h": 720,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 780856539322122200,
+          "id_str": "780856539322122240",
+          "indices": [
+            116,
+            139
+          ],
+          "media_url": "http://pbs.twimg.com/media/CtYo4qbWAAACWIS.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CtYo4qbWAAACWIS.jpg",
+          "url": "https://t.co/Wk5It5Hj5R",
+          "display_url": "pic.twitter.com/Wk5It5Hj5R",
+          "expanded_url": "https://twitter.com/LaughingSquid/status/780856542929252352/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1280,
+              "h": 720,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2172,
+      "id_str": "2172",
+      "name": "Laughing Squid",
+      "screen_name": "LaughingSquid",
+      "location": "New York City",
+      "description": "An art, culture & technology blog and a web hosting company (@LS_Hosting) focused on @WordPress hosting, founded in 1995 by @ScottBeale.",
+      "url": "http://t.co/3Rw9oSSmY4",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/3Rw9oSSmY4",
+              "expanded_url": "http://laughingsquid.com",
+              "display_url": "laughingsquid.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 590513,
+      "friends_count": 11,
+      "listed_count": 12216,
+      "created_at": "Tue Jul 18 02:46:45 +0000 2006",
+      "favourites_count": 80,
+      "utc_offset": -14400,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 65402,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/418456260971732992/By5KkDKn_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/418456260971732992/By5KkDKn_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2172/1408727604",
+      "profile_link_color": "008B45",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 11,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Sep 27 19:33:01 +0000 2016",
+    "id": 780852766696697900,
+    "id_str": "780852766696697857",
+    "text": "Tom Hanks Crashes a Couple’s Wedding Photo Shoot in Central Park https://t.co/8TV23h8wV5 https://t.co/LRevvNjyUs",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/8TV23h8wV5",
+          "expanded_url": "http://laughingsquid.com/tom-hanks-crashes-a-couples-wedding-photo-shoot-in-central-park/",
+          "display_url": "laughingsquid.com/tom-hanks-cras…",
+          "indices": [
+            65,
+            88
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 780852764884738000,
+          "id_str": "780852764884738048",
+          "indices": [
+            89,
+            112
+          ],
+          "media_url": "http://pbs.twimg.com/media/CtYlc9jWIAAO0Nq.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CtYlc9jWIAAO0Nq.jpg",
+          "url": "https://t.co/LRevvNjyUs",
+          "display_url": "pic.twitter.com/LRevvNjyUs",
+          "expanded_url": "https://twitter.com/LaughingSquid/status/780852766696697857/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 640,
+              "h": 360,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 640,
+              "h": 360,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 640,
+              "h": 360,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 780852764884738000,
+          "id_str": "780852764884738048",
+          "indices": [
+            89,
+            112
+          ],
+          "media_url": "http://pbs.twimg.com/media/CtYlc9jWIAAO0Nq.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CtYlc9jWIAAO0Nq.jpg",
+          "url": "https://t.co/LRevvNjyUs",
+          "display_url": "pic.twitter.com/LRevvNjyUs",
+          "expanded_url": "https://twitter.com/LaughingSquid/status/780852766696697857/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 640,
+              "h": 360,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 640,
+              "h": 360,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 640,
+              "h": 360,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2172,
+      "id_str": "2172",
+      "name": "Laughing Squid",
+      "screen_name": "LaughingSquid",
+      "location": "New York City",
+      "description": "An art, culture & technology blog and a web hosting company (@LS_Hosting) focused on @WordPress hosting, founded in 1995 by @ScottBeale.",
+      "url": "http://t.co/3Rw9oSSmY4",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/3Rw9oSSmY4",
+              "expanded_url": "http://laughingsquid.com",
+              "display_url": "laughingsquid.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 590513,
+      "friends_count": 11,
+      "listed_count": 12216,
+      "created_at": "Tue Jul 18 02:46:45 +0000 2006",
+      "favourites_count": 80,
+      "utc_offset": -14400,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 65402,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/418456260971732992/By5KkDKn_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/418456260971732992/By5KkDKn_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2172/1408727604",
+      "profile_link_color": "008B45",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 18,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Sep 27 19:18:07 +0000 2016",
+    "id": 780849015286067200,
+    "id_str": "780849015286067201",
+    "text": "The Cast of Will and Grace Reunite In Character For a New Scene Discussing the 2016 Election https://t.co/sozF2FATla https://t.co/bums6CHPEZ",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/sozF2FATla",
+          "expanded_url": "http://laughingsquid.com/the-cast-of-will-and-grace-reunite-in-character-for-a-new-scene-discussing-the-2016-election/",
+          "display_url": "laughingsquid.com/the-cast-of-wi…",
+          "indices": [
+            93,
+            116
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 780849012048093200,
+          "id_str": "780849012048093185",
+          "indices": [
+            117,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/CtYiChJXYAEVWf9.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CtYiChJXYAEVWf9.jpg",
+          "url": "https://t.co/bums6CHPEZ",
+          "display_url": "pic.twitter.com/bums6CHPEZ",
+          "expanded_url": "https://twitter.com/LaughingSquid/status/780849015286067201/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 812,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1386,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 460,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 780849012048093200,
+          "id_str": "780849012048093185",
+          "indices": [
+            117,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/CtYiChJXYAEVWf9.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CtYiChJXYAEVWf9.jpg",
+          "url": "https://t.co/bums6CHPEZ",
+          "display_url": "pic.twitter.com/bums6CHPEZ",
+          "expanded_url": "https://twitter.com/LaughingSquid/status/780849015286067201/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 812,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1386,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 460,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2172,
+      "id_str": "2172",
+      "name": "Laughing Squid",
+      "screen_name": "LaughingSquid",
+      "location": "New York City",
+      "description": "An art, culture & technology blog and a web hosting company (@LS_Hosting) focused on @WordPress hosting, founded in 1995 by @ScottBeale.",
+      "url": "http://t.co/3Rw9oSSmY4",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/3Rw9oSSmY4",
+              "expanded_url": "http://laughingsquid.com",
+              "display_url": "laughingsquid.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 590513,
+      "friends_count": 11,
+      "listed_count": 12216,
+      "created_at": "Tue Jul 18 02:46:45 +0000 2006",
+      "favourites_count": 80,
+      "utc_offset": -14400,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 65402,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/418456260971732992/By5KkDKn_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/418456260971732992/By5KkDKn_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2172/1408727604",
+      "profile_link_color": "008B45",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 17,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Sep 27 19:03:06 +0000 2016",
+    "id": 780845236092342300,
+    "id_str": "780845236092342272",
+    "text": "Planet Unknown, An Animated Short About Two Space Rovers Searching for a Habitable Planet https://t.co/7MFLgWfX2D https://t.co/MCabCQJA1B",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/7MFLgWfX2D",
+          "expanded_url": "http://laughingsquid.com/planet-unknown-an-animated-short-about-two-space-rovers-searching-for-a-habitable-planet/",
+          "display_url": "laughingsquid.com/planet-unknown…",
+          "indices": [
+            90,
+            113
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 780845234305531900,
+          "id_str": "780845234305531904",
+          "indices": [
+            114,
+            137
+          ],
+          "media_url": "http://pbs.twimg.com/media/CtYemn9WgAApXRl.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CtYemn9WgAApXRl.jpg",
+          "url": "https://t.co/MCabCQJA1B",
+          "display_url": "pic.twitter.com/MCabCQJA1B",
+          "expanded_url": "https://twitter.com/LaughingSquid/status/780845236092342272/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 640,
+              "h": 272,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 640,
+              "h": 272,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 640,
+              "h": 272,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 780845234305531900,
+          "id_str": "780845234305531904",
+          "indices": [
+            114,
+            137
+          ],
+          "media_url": "http://pbs.twimg.com/media/CtYemn9WgAApXRl.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CtYemn9WgAApXRl.jpg",
+          "url": "https://t.co/MCabCQJA1B",
+          "display_url": "pic.twitter.com/MCabCQJA1B",
+          "expanded_url": "https://twitter.com/LaughingSquid/status/780845236092342272/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 640,
+              "h": 272,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 640,
+              "h": 272,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 640,
+              "h": 272,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2172,
+      "id_str": "2172",
+      "name": "Laughing Squid",
+      "screen_name": "LaughingSquid",
+      "location": "New York City",
+      "description": "An art, culture & technology blog and a web hosting company (@LS_Hosting) focused on @WordPress hosting, founded in 1995 by @ScottBeale.",
+      "url": "http://t.co/3Rw9oSSmY4",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/3Rw9oSSmY4",
+              "expanded_url": "http://laughingsquid.com",
+              "display_url": "laughingsquid.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 590513,
+      "friends_count": 11,
+      "listed_count": 12216,
+      "created_at": "Tue Jul 18 02:46:45 +0000 2006",
+      "favourites_count": 80,
+      "utc_offset": -14400,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 65402,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/418456260971732992/By5KkDKn_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/418456260971732992/By5KkDKn_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2172/1408727604",
+      "profile_link_color": "008B45",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 21,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Sep 27 18:48:02 +0000 2016",
+    "id": 780841443548102700,
+    "id_str": "780841443548102656",
+    "text": "Vintage Footage of National Park Visitors Feeding Bears and Problems It Ended Up Causing https://t.co/oYBpBeBdfa https://t.co/Wp8soKBbbK",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/oYBpBeBdfa",
+          "expanded_url": "http://laughingsquid.com/vintage-footage-of-national-park-visitors-feeding-bears-and-problems-it-ended-up-causing/",
+          "display_url": "laughingsquid.com/vintage-footag…",
+          "indices": [
+            89,
+            112
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 780841441429971000,
+          "id_str": "780841441429970945",
+          "indices": [
+            113,
+            136
+          ],
+          "media_url": "http://pbs.twimg.com/media/CtYbJ2ZWYAE5ox4.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CtYbJ2ZWYAE5ox4.jpg",
+          "url": "https://t.co/Wp8soKBbbK",
+          "display_url": "pic.twitter.com/Wp8soKBbbK",
+          "expanded_url": "https://twitter.com/LaughingSquid/status/780841443548102656/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 480,
+              "h": 360,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 480,
+              "h": 360,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 480,
+              "h": 360,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 780841441429971000,
+          "id_str": "780841441429970945",
+          "indices": [
+            113,
+            136
+          ],
+          "media_url": "http://pbs.twimg.com/media/CtYbJ2ZWYAE5ox4.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CtYbJ2ZWYAE5ox4.jpg",
+          "url": "https://t.co/Wp8soKBbbK",
+          "display_url": "pic.twitter.com/Wp8soKBbbK",
+          "expanded_url": "https://twitter.com/LaughingSquid/status/780841443548102656/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 480,
+              "h": 360,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 480,
+              "h": 360,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 480,
+              "h": 360,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2172,
+      "id_str": "2172",
+      "name": "Laughing Squid",
+      "screen_name": "LaughingSquid",
+      "location": "New York City",
+      "description": "An art, culture & technology blog and a web hosting company (@LS_Hosting) focused on @WordPress hosting, founded in 1995 by @ScottBeale.",
+      "url": "http://t.co/3Rw9oSSmY4",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/3Rw9oSSmY4",
+              "expanded_url": "http://laughingsquid.com",
+              "display_url": "laughingsquid.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 590513,
+      "friends_count": 11,
+      "listed_count": 12216,
+      "created_at": "Tue Jul 18 02:46:45 +0000 2006",
+      "favourites_count": 80,
+      "utc_offset": -14400,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 65402,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/418456260971732992/By5KkDKn_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/418456260971732992/By5KkDKn_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2172/1408727604",
+      "profile_link_color": "008B45",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Sep 27 18:33:06 +0000 2016",
+    "id": 780837686152142800,
+    "id_str": "780837686152142848",
+    "text": "Two Valets ‘Duel’ Over a Car Check Ticket in Audi’s Presidential Debate Ad for the RS7 Sedan https://t.co/TvqU3WBBlQ https://t.co/VN1EkvuyZe",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/TvqU3WBBlQ",
+          "expanded_url": "http://laughingsquid.com/two-valets-duel-over-a-car-check-ticket-in-audis-presidential-debate-ad-for-the-rs7-sedan/",
+          "display_url": "laughingsquid.com/two-valets-due…",
+          "indices": [
+            93,
+            116
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 780837684155674600,
+          "id_str": "780837684155674624",
+          "indices": [
+            117,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/CtYXvJdWcAAvbg_.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CtYXvJdWcAAvbg_.jpg",
+          "url": "https://t.co/VN1EkvuyZe",
+          "display_url": "pic.twitter.com/VN1EkvuyZe",
+          "expanded_url": "https://twitter.com/LaughingSquid/status/780837686152142848/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1600,
+              "h": 900,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 780837684155674600,
+          "id_str": "780837684155674624",
+          "indices": [
+            117,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/CtYXvJdWcAAvbg_.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CtYXvJdWcAAvbg_.jpg",
+          "url": "https://t.co/VN1EkvuyZe",
+          "display_url": "pic.twitter.com/VN1EkvuyZe",
+          "expanded_url": "https://twitter.com/LaughingSquid/status/780837686152142848/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1600,
+              "h": 900,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2172,
+      "id_str": "2172",
+      "name": "Laughing Squid",
+      "screen_name": "LaughingSquid",
+      "location": "New York City",
+      "description": "An art, culture & technology blog and a web hosting company (@LS_Hosting) focused on @WordPress hosting, founded in 1995 by @ScottBeale.",
+      "url": "http://t.co/3Rw9oSSmY4",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/3Rw9oSSmY4",
+              "expanded_url": "http://laughingsquid.com",
+              "display_url": "laughingsquid.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 590513,
+      "friends_count": 11,
+      "listed_count": 12216,
+      "created_at": "Tue Jul 18 02:46:45 +0000 2006",
+      "favourites_count": 80,
+      "utc_offset": -14400,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 65402,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/418456260971732992/By5KkDKn_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/418456260971732992/By5KkDKn_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2172/1408727604",
+      "profile_link_color": "008B45",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Sep 27 18:18:03 +0000 2016",
+    "id": 780833898594967600,
+    "id_str": "780833898594967554",
+    "text": "A Preview of the Artwork Featured in Volume 41 of Hi-Fructose: The New Contemporary Art Magazine… https://t.co/awzki1fm7s",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/awzki1fm7s",
+          "expanded_url": "https://twitter.com/i/web/status/780833898594967554",
+          "display_url": "twitter.com/i/web/status/7…",
+          "indices": [
+            98,
+            121
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2172,
+      "id_str": "2172",
+      "name": "Laughing Squid",
+      "screen_name": "LaughingSquid",
+      "location": "New York City",
+      "description": "An art, culture & technology blog and a web hosting company (@LS_Hosting) focused on @WordPress hosting, founded in 1995 by @ScottBeale.",
+      "url": "http://t.co/3Rw9oSSmY4",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/3Rw9oSSmY4",
+              "expanded_url": "http://laughingsquid.com",
+              "display_url": "laughingsquid.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 590513,
+      "friends_count": 11,
+      "listed_count": 12216,
+      "created_at": "Tue Jul 18 02:46:45 +0000 2006",
+      "favourites_count": 80,
+      "utc_offset": -14400,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 65402,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/418456260971732992/By5KkDKn_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/418456260971732992/By5KkDKn_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2172/1408727604",
+      "profile_link_color": "008B45",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 15,
+    "favorite_count": 30,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Sep 27 18:03:02 +0000 2016",
+    "id": 780830118705004500,
+    "id_str": "780830118705004544",
+    "text": "Bluetooth Shower Speaker https://t.co/fT9WIloN8f https://t.co/ZdFlTcSKDv",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/fT9WIloN8f",
+          "expanded_url": "https://store.laughingsquid.com/sales/bluetooth-shower-speaker-black1",
+          "display_url": "store.laughingsquid.com/sales/bluetoot…",
+          "indices": [
+            25,
+            48
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 780830116880519200,
+          "id_str": "780830116880519168",
+          "indices": [
+            49,
+            72
+          ],
+          "media_url": "http://pbs.twimg.com/media/CtYQ2rKXEAAoykx.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CtYQ2rKXEAAoykx.jpg",
+          "url": "https://t.co/ZdFlTcSKDv",
+          "display_url": "pic.twitter.com/ZdFlTcSKDv",
+          "expanded_url": "https://twitter.com/LaughingSquid/status/780830118705004544/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 630,
+              "h": 473,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 630,
+              "h": 473,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 630,
+              "h": 473,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 780830116880519200,
+          "id_str": "780830116880519168",
+          "indices": [
+            49,
+            72
+          ],
+          "media_url": "http://pbs.twimg.com/media/CtYQ2rKXEAAoykx.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CtYQ2rKXEAAoykx.jpg",
+          "url": "https://t.co/ZdFlTcSKDv",
+          "display_url": "pic.twitter.com/ZdFlTcSKDv",
+          "expanded_url": "https://twitter.com/LaughingSquid/status/780830118705004544/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 630,
+              "h": 473,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 630,
+              "h": 473,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 630,
+              "h": 473,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2172,
+      "id_str": "2172",
+      "name": "Laughing Squid",
+      "screen_name": "LaughingSquid",
+      "location": "New York City",
+      "description": "An art, culture & technology blog and a web hosting company (@LS_Hosting) focused on @WordPress hosting, founded in 1995 by @ScottBeale.",
+      "url": "http://t.co/3Rw9oSSmY4",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/3Rw9oSSmY4",
+              "expanded_url": "http://laughingsquid.com",
+              "display_url": "laughingsquid.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 590513,
+      "friends_count": 11,
+      "listed_count": 12216,
+      "created_at": "Tue Jul 18 02:46:45 +0000 2006",
+      "favourites_count": 80,
+      "utc_offset": -14400,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 65402,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/418456260971732992/By5KkDKn_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/418456260971732992/By5KkDKn_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2172/1408727604",
+      "profile_link_color": "008B45",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 8,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Sep 27 17:48:09 +0000 2016",
+    "id": 780826374995058700,
+    "id_str": "780826374995058689",
+    "text": "Pilot Makes Successful Deadstick Landing After the Propeller Falls off His Plane During Flight… https://t.co/DQzfzIBysx",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/DQzfzIBysx",
+          "expanded_url": "https://twitter.com/i/web/status/780826374995058689",
+          "display_url": "twitter.com/i/web/status/7…",
+          "indices": [
+            96,
+            119
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2172,
+      "id_str": "2172",
+      "name": "Laughing Squid",
+      "screen_name": "LaughingSquid",
+      "location": "New York City",
+      "description": "An art, culture & technology blog and a web hosting company (@LS_Hosting) focused on @WordPress hosting, founded in 1995 by @ScottBeale.",
+      "url": "http://t.co/3Rw9oSSmY4",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/3Rw9oSSmY4",
+              "expanded_url": "http://laughingsquid.com",
+              "display_url": "laughingsquid.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 590513,
+      "friends_count": 11,
+      "listed_count": 12216,
+      "created_at": "Tue Jul 18 02:46:45 +0000 2006",
+      "favourites_count": 80,
+      "utc_offset": -14400,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 65402,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/418456260971732992/By5KkDKn_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/418456260971732992/By5KkDKn_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2172/1408727604",
+      "profile_link_color": "008B45",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 16,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Sep 27 17:33:02 +0000 2016",
+    "id": 780822570321018900,
+    "id_str": "780822570321018880",
+    "text": "The Science of ASMR and How Soft Noises Can Make People’s Brains Tingle https://t.co/Ufp9OCLOE2 https://t.co/dM3690Aesh",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/Ufp9OCLOE2",
+          "expanded_url": "http://laughingsquid.com/the-science-of-asmr-and-how-soft-noises-can-make-peoples-brains-tingle/",
+          "display_url": "laughingsquid.com/the-science-of…",
+          "indices": [
+            72,
+            95
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 780822567875649500,
+          "id_str": "780822567875649536",
+          "indices": [
+            96,
+            119
+          ],
+          "media_url": "http://pbs.twimg.com/media/CtYJ_Q7WIAAogyR.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CtYJ_Q7WIAAogyR.jpg",
+          "url": "https://t.co/dM3690Aesh",
+          "display_url": "pic.twitter.com/dM3690Aesh",
+          "expanded_url": "https://twitter.com/LaughingSquid/status/780822570321018880/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1280,
+              "h": 720,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 780822567875649500,
+          "id_str": "780822567875649536",
+          "indices": [
+            96,
+            119
+          ],
+          "media_url": "http://pbs.twimg.com/media/CtYJ_Q7WIAAogyR.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CtYJ_Q7WIAAogyR.jpg",
+          "url": "https://t.co/dM3690Aesh",
+          "display_url": "pic.twitter.com/dM3690Aesh",
+          "expanded_url": "https://twitter.com/LaughingSquid/status/780822570321018880/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1280,
+              "h": 720,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2172,
+      "id_str": "2172",
+      "name": "Laughing Squid",
+      "screen_name": "LaughingSquid",
+      "location": "New York City",
+      "description": "An art, culture & technology blog and a web hosting company (@LS_Hosting) focused on @WordPress hosting, founded in 1995 by @ScottBeale.",
+      "url": "http://t.co/3Rw9oSSmY4",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/3Rw9oSSmY4",
+              "expanded_url": "http://laughingsquid.com",
+              "display_url": "laughingsquid.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 590513,
+      "friends_count": 11,
+      "listed_count": 12216,
+      "created_at": "Tue Jul 18 02:46:45 +0000 2006",
+      "favourites_count": 80,
+      "utc_offset": -14400,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 65402,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/418456260971732992/By5KkDKn_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/418456260971732992/By5KkDKn_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2172/1408727604",
+      "profile_link_color": "008B45",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 8,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Sep 27 17:18:02 +0000 2016",
+    "id": 780818793870266400,
+    "id_str": "780818793870266368",
+    "text": "Dutch Bicycle Company Disguises Their Shipments as Flat Screen Televisions to Avoid Shipping Damage… https://t.co/yqbMedJylP",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/yqbMedJylP",
+          "expanded_url": "https://twitter.com/i/web/status/780818793870266368",
+          "display_url": "twitter.com/i/web/status/7…",
+          "indices": [
+            101,
+            124
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2172,
+      "id_str": "2172",
+      "name": "Laughing Squid",
+      "screen_name": "LaughingSquid",
+      "location": "New York City",
+      "description": "An art, culture & technology blog and a web hosting company (@LS_Hosting) focused on @WordPress hosting, founded in 1995 by @ScottBeale.",
+      "url": "http://t.co/3Rw9oSSmY4",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/3Rw9oSSmY4",
+              "expanded_url": "http://laughingsquid.com",
+              "display_url": "laughingsquid.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 590513,
+      "friends_count": 11,
+      "listed_count": 12216,
+      "created_at": "Tue Jul 18 02:46:45 +0000 2006",
+      "favourites_count": 80,
+      "utc_offset": -14400,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 65402,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/418456260971732992/By5KkDKn_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/418456260971732992/By5KkDKn_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2172/1408727604",
+      "profile_link_color": "008B45",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 12,
+    "favorite_count": 19,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Sep 27 17:03:06 +0000 2016",
+    "id": 780815036562407400,
+    "id_str": "780815036562407424",
+    "text": "China Opens the World’s Largest Ship Elevator at Three Gorges Dam on the Yangtze River https://t.co/JWpeWFJIxd https://t.co/VwsrfZDEXf",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/JWpeWFJIxd",
+          "expanded_url": "http://laughingsquid.com/china-opens-the-worlds-largest-ship-elevator-at-three-gorges-dam-on-the-yangtze-river/",
+          "display_url": "laughingsquid.com/china-opens-th…",
+          "indices": [
+            87,
+            110
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 780815034490449900,
+          "id_str": "780815034490449920",
+          "indices": [
+            111,
+            134
+          ],
+          "media_url": "http://pbs.twimg.com/media/CtYDIw4WcAA-1-5.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CtYDIw4WcAA-1-5.jpg",
+          "url": "https://t.co/VwsrfZDEXf",
+          "display_url": "pic.twitter.com/VwsrfZDEXf",
+          "expanded_url": "https://twitter.com/LaughingSquid/status/780815036562407424/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 480,
+              "h": 360,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 480,
+              "h": 360,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 480,
+              "h": 360,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 780815034490449900,
+          "id_str": "780815034490449920",
+          "indices": [
+            111,
+            134
+          ],
+          "media_url": "http://pbs.twimg.com/media/CtYDIw4WcAA-1-5.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CtYDIw4WcAA-1-5.jpg",
+          "url": "https://t.co/VwsrfZDEXf",
+          "display_url": "pic.twitter.com/VwsrfZDEXf",
+          "expanded_url": "https://twitter.com/LaughingSquid/status/780815036562407424/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 480,
+              "h": 360,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 480,
+              "h": 360,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 480,
+              "h": 360,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2172,
+      "id_str": "2172",
+      "name": "Laughing Squid",
+      "screen_name": "LaughingSquid",
+      "location": "New York City",
+      "description": "An art, culture & technology blog and a web hosting company (@LS_Hosting) focused on @WordPress hosting, founded in 1995 by @ScottBeale.",
+      "url": "http://t.co/3Rw9oSSmY4",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/3Rw9oSSmY4",
+              "expanded_url": "http://laughingsquid.com",
+              "display_url": "laughingsquid.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 590513,
+      "friends_count": 11,
+      "listed_count": 12216,
+      "created_at": "Tue Jul 18 02:46:45 +0000 2006",
+      "favourites_count": 80,
+      "utc_offset": -14400,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 65402,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/418456260971732992/By5KkDKn_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/418456260971732992/By5KkDKn_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2172/1408727604",
+      "profile_link_color": "008B45",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 8,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Sep 27 16:48:02 +0000 2016",
+    "id": 780811246450909200,
+    "id_str": "780811246450909184",
+    "text": "The Evolution of Tom Hanks in Film and Television https://t.co/PeJM8Z4Mwx https://t.co/9Qd7595vaT",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/PeJM8Z4Mwx",
+          "expanded_url": "http://laughingsquid.com/the-evolution-of-tom-hanks-in-film-and-television/",
+          "display_url": "laughingsquid.com/the-evolution-…",
+          "indices": [
+            50,
+            73
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 780811243674271700,
+          "id_str": "780811243674271744",
+          "indices": [
+            74,
+            97
+          ],
+          "media_url": "http://pbs.twimg.com/media/CtX_sG_WAAAkUOq.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CtX_sG_WAAAkUOq.jpg",
+          "url": "https://t.co/9Qd7595vaT",
+          "display_url": "pic.twitter.com/9Qd7595vaT",
+          "expanded_url": "https://twitter.com/LaughingSquid/status/780811246450909184/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1920,
+              "h": 1080,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 780811243674271700,
+          "id_str": "780811243674271744",
+          "indices": [
+            74,
+            97
+          ],
+          "media_url": "http://pbs.twimg.com/media/CtX_sG_WAAAkUOq.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CtX_sG_WAAAkUOq.jpg",
+          "url": "https://t.co/9Qd7595vaT",
+          "display_url": "pic.twitter.com/9Qd7595vaT",
+          "expanded_url": "https://twitter.com/LaughingSquid/status/780811246450909184/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1920,
+              "h": 1080,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2172,
+      "id_str": "2172",
+      "name": "Laughing Squid",
+      "screen_name": "LaughingSquid",
+      "location": "New York City",
+      "description": "An art, culture & technology blog and a web hosting company (@LS_Hosting) focused on @WordPress hosting, founded in 1995 by @ScottBeale.",
+      "url": "http://t.co/3Rw9oSSmY4",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/3Rw9oSSmY4",
+              "expanded_url": "http://laughingsquid.com",
+              "display_url": "laughingsquid.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 590513,
+      "friends_count": 11,
+      "listed_count": 12216,
+      "created_at": "Tue Jul 18 02:46:45 +0000 2006",
+      "favourites_count": 80,
+      "utc_offset": -14400,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 65402,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/418456260971732992/By5KkDKn_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/418456260971732992/By5KkDKn_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2172/1408727604",
+      "profile_link_color": "008B45",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Sep 27 16:33:02 +0000 2016",
+    "id": 780807471476666400,
+    "id_str": "780807471476666368",
+    "text": "Adam Savage and the Tested Team Convert a Pickup Truck Into a Portable Movie Theater https://t.co/WIqjtPIlmu https://t.co/35wCXfkyPv",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/WIqjtPIlmu",
+          "expanded_url": "http://laughingsquid.com/adam-savage-and-the-tested-team-convert-a-pickup-truck-into-a-portable-movie-theater/",
+          "display_url": "laughingsquid.com/adam-savage-an…",
+          "indices": [
+            85,
+            108
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 780807468259606500,
+          "id_str": "780807468259606528",
+          "indices": [
+            109,
+            132
+          ],
+          "media_url": "http://pbs.twimg.com/media/CtX8QWeWAAAHYzn.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CtX8QWeWAAAHYzn.jpg",
+          "url": "https://t.co/35wCXfkyPv",
+          "display_url": "pic.twitter.com/35wCXfkyPv",
+          "expanded_url": "https://twitter.com/LaughingSquid/status/780807471476666368/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1920,
+              "h": 1080,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 780807468259606500,
+          "id_str": "780807468259606528",
+          "indices": [
+            109,
+            132
+          ],
+          "media_url": "http://pbs.twimg.com/media/CtX8QWeWAAAHYzn.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CtX8QWeWAAAHYzn.jpg",
+          "url": "https://t.co/35wCXfkyPv",
+          "display_url": "pic.twitter.com/35wCXfkyPv",
+          "expanded_url": "https://twitter.com/LaughingSquid/status/780807471476666368/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1920,
+              "h": 1080,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2172,
+      "id_str": "2172",
+      "name": "Laughing Squid",
+      "screen_name": "LaughingSquid",
+      "location": "New York City",
+      "description": "An art, culture & technology blog and a web hosting company (@LS_Hosting) focused on @WordPress hosting, founded in 1995 by @ScottBeale.",
+      "url": "http://t.co/3Rw9oSSmY4",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/3Rw9oSSmY4",
+              "expanded_url": "http://laughingsquid.com",
+              "display_url": "laughingsquid.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 590513,
+      "friends_count": 11,
+      "listed_count": 12216,
+      "created_at": "Tue Jul 18 02:46:45 +0000 2006",
+      "favourites_count": 80,
+      "utc_offset": -14400,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 65402,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/418456260971732992/By5KkDKn_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/418456260971732992/By5KkDKn_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2172/1408727604",
+      "profile_link_color": "008B45",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 8,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Sep 27 16:18:10 +0000 2016",
+    "id": 780803731822698500,
+    "id_str": "780803731822698497",
+    "text": "Luke Cage Hits the Streets of New York to Battle Crime in a New Trailer for Marvel’s Netflix Series… https://t.co/8hBfO3AwZZ",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/8hBfO3AwZZ",
+          "expanded_url": "https://twitter.com/i/web/status/780803731822698497",
+          "display_url": "twitter.com/i/web/status/7…",
+          "indices": [
+            101,
+            124
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2172,
+      "id_str": "2172",
+      "name": "Laughing Squid",
+      "screen_name": "LaughingSquid",
+      "location": "New York City",
+      "description": "An art, culture & technology blog and a web hosting company (@LS_Hosting) focused on @WordPress hosting, founded in 1995 by @ScottBeale.",
+      "url": "http://t.co/3Rw9oSSmY4",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/3Rw9oSSmY4",
+              "expanded_url": "http://laughingsquid.com",
+              "display_url": "laughingsquid.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 590513,
+      "friends_count": 11,
+      "listed_count": 12216,
+      "created_at": "Tue Jul 18 02:46:45 +0000 2006",
+      "favourites_count": 80,
+      "utc_offset": -14400,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 65402,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/418456260971732992/By5KkDKn_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/418456260971732992/By5KkDKn_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2172/1408727604",
+      "profile_link_color": "008B45",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Sep 27 16:03:12 +0000 2016",
+    "id": 780799961621561300,
+    "id_str": "780799961621561344",
+    "text": "Some of the Best Character Departures in Movies https://t.co/KCNXD9Lrsv https://t.co/teaxuPhVRS",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/KCNXD9Lrsv",
+          "expanded_url": "http://laughingsquid.com/some-of-the-best-character-departures-in-movies/",
+          "display_url": "laughingsquid.com/some-of-the-be…",
+          "indices": [
+            48,
+            71
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 780799958928748500,
+          "id_str": "780799958928748544",
+          "indices": [
+            72,
+            95
+          ],
+          "media_url": "http://pbs.twimg.com/media/CtX1bQCWcAAvaVN.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CtX1bQCWcAAvaVN.jpg",
+          "url": "https://t.co/teaxuPhVRS",
+          "display_url": "pic.twitter.com/teaxuPhVRS",
+          "expanded_url": "https://twitter.com/LaughingSquid/status/780799961621561344/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1920,
+              "h": 1080,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 780799958928748500,
+          "id_str": "780799958928748544",
+          "indices": [
+            72,
+            95
+          ],
+          "media_url": "http://pbs.twimg.com/media/CtX1bQCWcAAvaVN.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CtX1bQCWcAAvaVN.jpg",
+          "url": "https://t.co/teaxuPhVRS",
+          "display_url": "pic.twitter.com/teaxuPhVRS",
+          "expanded_url": "https://twitter.com/LaughingSquid/status/780799961621561344/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1920,
+              "h": 1080,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2172,
+      "id_str": "2172",
+      "name": "Laughing Squid",
+      "screen_name": "LaughingSquid",
+      "location": "New York City",
+      "description": "An art, culture & technology blog and a web hosting company (@LS_Hosting) focused on @WordPress hosting, founded in 1995 by @ScottBeale.",
+      "url": "http://t.co/3Rw9oSSmY4",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/3Rw9oSSmY4",
+              "expanded_url": "http://laughingsquid.com",
+              "display_url": "laughingsquid.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 590513,
+      "friends_count": 11,
+      "listed_count": 12216,
+      "created_at": "Tue Jul 18 02:46:45 +0000 2006",
+      "favourites_count": 80,
+      "utc_offset": -14400,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 65402,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/418456260971732992/By5KkDKn_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/418456260971732992/By5KkDKn_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2172/1408727604",
+      "profile_link_color": "008B45",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 13,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Sep 27 15:33:01 +0000 2016",
+    "id": 780792368526192600,
+    "id_str": "780792368526192640",
+    "text": "‘Black or White’ by Michael Jackson Played on 64 Floppy Drives, 8 Hard Drives, and 2 Scanners… https://t.co/z4V3nvcLR4",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/z4V3nvcLR4",
+          "expanded_url": "https://twitter.com/i/web/status/780792368526192640",
+          "display_url": "twitter.com/i/web/status/7…",
+          "indices": [
+            95,
+            118
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2172,
+      "id_str": "2172",
+      "name": "Laughing Squid",
+      "screen_name": "LaughingSquid",
+      "location": "New York City",
+      "description": "An art, culture & technology blog and a web hosting company (@LS_Hosting) focused on @WordPress hosting, founded in 1995 by @ScottBeale.",
+      "url": "http://t.co/3Rw9oSSmY4",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/3Rw9oSSmY4",
+              "expanded_url": "http://laughingsquid.com",
+              "display_url": "laughingsquid.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 590513,
+      "friends_count": 11,
+      "listed_count": 12216,
+      "created_at": "Tue Jul 18 02:46:45 +0000 2006",
+      "favourites_count": 80,
+      "utc_offset": -14400,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 65402,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/418456260971732992/By5KkDKn_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/418456260971732992/By5KkDKn_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2172/1408727604",
+      "profile_link_color": "008B45",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 13,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Sep 27 15:03:10 +0000 2016",
+    "id": 780784856913633300,
+    "id_str": "780784856913633280",
+    "text": "Artist Cooks Real Miniature Meals in a Tiny Dollhouse-Sized Kitchen https://t.co/JJ8T8nLlds https://t.co/y1xMuSHA7G",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/JJ8T8nLlds",
+          "expanded_url": "http://laughingsquid.com/artist-cooks-real-miniature-meals-in-a-tiny-dollhouse-sized-kitchen/",
+          "display_url": "laughingsquid.com/artist-cooks-r…",
+          "indices": [
+            68,
+            91
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 780784854585704400,
+          "id_str": "780784854585704448",
+          "indices": [
+            92,
+            115
+          ],
+          "media_url": "http://pbs.twimg.com/media/CtXnsD-WAAAsd_e.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CtXnsD-WAAAsd_e.jpg",
+          "url": "https://t.co/y1xMuSHA7G",
+          "display_url": "pic.twitter.com/y1xMuSHA7G",
+          "expanded_url": "https://twitter.com/LaughingSquid/status/780784856913633280/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 480,
+              "h": 360,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 480,
+              "h": 360,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 480,
+              "h": 360,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 780784854585704400,
+          "id_str": "780784854585704448",
+          "indices": [
+            92,
+            115
+          ],
+          "media_url": "http://pbs.twimg.com/media/CtXnsD-WAAAsd_e.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CtXnsD-WAAAsd_e.jpg",
+          "url": "https://t.co/y1xMuSHA7G",
+          "display_url": "pic.twitter.com/y1xMuSHA7G",
+          "expanded_url": "https://twitter.com/LaughingSquid/status/780784856913633280/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 480,
+              "h": 360,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 480,
+              "h": 360,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 480,
+              "h": 360,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2172,
+      "id_str": "2172",
+      "name": "Laughing Squid",
+      "screen_name": "LaughingSquid",
+      "location": "New York City",
+      "description": "An art, culture & technology blog and a web hosting company (@LS_Hosting) focused on @WordPress hosting, founded in 1995 by @ScottBeale.",
+      "url": "http://t.co/3Rw9oSSmY4",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/3Rw9oSSmY4",
+              "expanded_url": "http://laughingsquid.com",
+              "display_url": "laughingsquid.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 590513,
+      "friends_count": 11,
+      "listed_count": 12216,
+      "created_at": "Tue Jul 18 02:46:45 +0000 2006",
+      "favourites_count": 80,
+      "utc_offset": -14400,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 65402,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/418456260971732992/By5KkDKn_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/418456260971732992/By5KkDKn_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2172/1408727604",
+      "profile_link_color": "008B45",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 13,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Sep 27 01:03:08 +0000 2016",
+    "id": 780573453577486300,
+    "id_str": "780573453577486337",
+    "text": "A Brilliant Cello Mashup of Beethoven’s ‘Fifth Symphony’ and Led Zeppelin’s ‘Whole Lotta Love’… https://t.co/niPwTF5aVz",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/niPwTF5aVz",
+          "expanded_url": "https://twitter.com/i/web/status/780573453577486337",
+          "display_url": "twitter.com/i/web/status/7…",
+          "indices": [
+            96,
+            119
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2172,
+      "id_str": "2172",
+      "name": "Laughing Squid",
+      "screen_name": "LaughingSquid",
+      "location": "New York City",
+      "description": "An art, culture & technology blog and a web hosting company (@LS_Hosting) focused on @WordPress hosting, founded in 1995 by @ScottBeale.",
+      "url": "http://t.co/3Rw9oSSmY4",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/3Rw9oSSmY4",
+              "expanded_url": "http://laughingsquid.com",
+              "display_url": "laughingsquid.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 590513,
+      "friends_count": 11,
+      "listed_count": 12216,
+      "created_at": "Tue Jul 18 02:46:45 +0000 2006",
+      "favourites_count": 80,
+      "utc_offset": -14400,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 65402,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/418456260971732992/By5KkDKn_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/418456260971732992/By5KkDKn_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2172/1408727604",
+      "profile_link_color": "008B45",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 18,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  }
+]
