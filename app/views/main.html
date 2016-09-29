@@ -11,11 +11,13 @@
             <div class="col-md-12 padding-all-0">
               <div class="col-md-12 tweet-box" 
               ng-repeat="twit in twitter_user.user_timeline | limitTo: displayCount">
-                <h2>
-                  Heading
-                </h2>
+                <h4>
+                  {{twit.user.name}}
+                </h4>
                 <p>{{twit.text}}</p>
                 <p>Created at: {{Date(twit.created_at) | date : 'dd/MMM/yyyy'}}</p>
+                <p>Retweeted: {{twit.retweet_count}} <a target="_blank" href="{{twit.entities.urls[0].expanded_url}}">Read more</a></p>
+                
               </div>
             </div>
           </div>
